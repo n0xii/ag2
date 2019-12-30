@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Adrenaline Gamer 2</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="TRUE" name="MSSmartTagsPreventParsing">
+<meta HTTP-EQUIV="Pragma" CONTENT="no-cache"> 
+<meta HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<style type="text/css" media="all">@import "style_local.css"; 
+</style>
+</head>
+<body bg="#000000">
+
+<h2>This panel is weapons oriented. For each weapon, you can set the define parameters:</h2>
+<p>
+<b>Push</b><br>
+Push is the ability for a weapon to impact the weapon's holder with a recoil impact. <br><br>
+There are two components to consider:<br>
+  - <i>Force</i> : velocity applied to the weapon's holder (ie 900)<br>
+  - <i>Radius</i> : the "radius" value defines a sphere of impact expressed in units. Obviously, more far you are from the impact and weaker is the push effect. You can define a "push" effect for every elected weapon. <br>
+<br>
+For instance, if you want to implement the push effect on the RPG launcher ala Quake, it's very easy. Just put the following values for the RPG : Force = 900 and Radius = 200. The "push" value is related to the speed you gain.  <br>
+<br>
+<u>Tip</u> : perform tests with the MP5 as it does not do any damage  to the weapon's holder or change the damage to 0 in the 1st panel for the considered weapon.<br>
+<br>
+<b>Clip</b><br>
+   - <i>Clip size</i> : size of a clip<br>
+   - <i>Default clip</i> : amount of ammo added when grabbing ammmo<br>
+<I>Please note that for Hand Grenade, "Clip Default" is for number of hand grenades at spawn.
+<br>
+<br>
+<b>Push Damage Ratio</b><br>
+When using Push for weapons, you can decide to have less damage appplied to the weapon's holder than when shooting the opponent. <br>
+<br>
+A ratio of "1" means that you will apply the normal amount of damages to the weapon's holder.<br><br>
+A ratio of "0.5" means that only half of the damages will be applied to the weapon's holder while 100% of the damage will be applied to the opponents.<br><br>
+A ratio of "0" means there will have no damage for weapon's holder but 100% of damage for opponents.<br><br>
+This ratio can be used if you estimate that a RPG rocket must do big damages but that if you use it for a rocket jump you don't want to be impacted too heavily.<br>
+<br>
+<br>
+Click on "Weapons" button to go back to general weapons parameters.<br>
+<br>
+<br>
+Click on "Gameplay" button to go directly to "Gameplay" panel.
+</p>
+
+</body>
+</html>

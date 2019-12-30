@@ -1,0 +1,18 @@
+BODY            { background-color: #000000; FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px; margin: 10px; COLOR: orange }
+
+li,ul 					{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px; COLOR:orange; margin-top: 3px; margin-bottom: 3px;}
+p.sig						{COLOR: orange; TEXT-INDENT: 20;}
+h1 							{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 20px; COLOR:orange; margin-top: 5px; margin-bottom: 14px;}
+h2 							{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 15px; COLOR:orange; margin-top: 5px; margin-bottom: 0px;}
+h2.white					{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 15px; COLOR:orange;}
+p 					{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px; COLOR:orange;margin-top: 12px; margin-bottom: 5px;}
+hr 					{margin-top: 0px; margin-bottom: 0px;}
+
+A:link      				{BACKGROUND: none; COLOR: orange; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+A:active    				{BACKGROUND: none; COLOR: yellow FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+A:visited   				{BACKGROUND: none; COLOR: orange; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+A:hover     				{BACKGROUND: none; COLOR: yellow; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline;}
+
+FONT						{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px;}
+
+SPAN						{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px;}

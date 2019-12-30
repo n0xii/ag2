@@ -1,0 +1,140 @@
+"Resource/LoadingDialog.res"
+{
+	"LoadingDialog"
+	{
+		"ControlName"		"Frame"
+		"fieldName"		"LoadingDialog"
+		"xpos"		"322"
+		"ypos"		"249"
+		"wide"		"380"
+		"tall"		"221"		// 180
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+	}
+	"InfoLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"InfoLabel"
+		"xpos"		"20"
+		"ypos"		"36"		// 34
+		"wide"		"340"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"#GameUI_ParseBaseline"
+		"textAlignment"		"west"
+		"dulltext"		"1"
+		"brighttext"		"0"
+	}
+	"progress"
+	{
+		"ControlName"		"ProgressBar"
+		"fieldName"		"Progress"
+		"xpos"		"20"
+		"ypos"		"85"		// 64
+		"wide"		"260"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+	}
+	"CancelButton"
+	{
+		"ControlName"		"Button"
+		"fieldName"		"CancelButton"
+		"xpos"		"288"
+		"ypos"		"85"		// 64
+		"wide"		"72"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"#GameUI_Cancel"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"command"		"Cancel"
+		"Default"		"0"
+	}
+	"TimeRemainingLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"TimeRemainingLabel"
+		"xpos"		"20"
+		"ypos"		"108"
+		"wide"		"260"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		""
+		"textAlignment"		"west"
+		"dulltext"		"1"
+		"brighttext"		"0"
+	}
+	"VACInfoLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"VACInfoLabel"
+		"xpos"		"90"
+		"ypos"		"121"		// 100
+		"wide"		"260"
+		"tall"		"80"		// 60
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"wrap"			"1"
+		"tabPosition"		"0"
+		"labelText"		"#VAC_ConnectingToSecureServer"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+	}
+	"VACImage"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"VACImage"
+		"xpos"		"30"
+		"ypos"		"131"		// 110
+		"wide"		"64"
+		"tall"		"64"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"border"		""
+		"scaleimage"	"1"
+		"image"		"resource/icon_vac"
+	}
+	"PG_LoadingImage"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"PG_LoadingImage"
+		"xpos"		"300"
+		"ypos"		"10"
+		"wide"		"70"
+		"tall"		"45"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"border"		""
+		"scaleimage"	"1"
+		"image"		"resource/pg_loading"
+	}
+}
+
+

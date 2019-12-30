@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>Adrenaline Gamer 2</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="TRUE" name="MSSmartTagsPreventParsing">
+<meta HTTP-EQUIV="Pragma" CONTENT="no-cache"> 
+<meta HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<style type="text/css" media="all">@import "style_local.css"; 
+</style>
+</head>
+<body bg="#000000">
+
+<h1>What is a Gameplay ?</h1>
+<p>
+A Gameplay is a set of parameters which does influence the game in terms of :<br>
+   - weapons : damage, missile/bolt speed, clip size, allowed weapons, ...<br>
+   - movement : speed, bunny hop or not, wall jump or not, ...<br>
+   - specific features : hitsound, bright/regular models, longjump module, ...<br>
+</p>
+<br>
+<h1>The Gameplay SDK is composed of 3 panels</h1>
+<p>
+   - Gameplay : speeds, specific features enabler<br>
+   - Weapons 1 : damages<br>
+   - Weapons 2 : push effect (Quakelike) and clip size<br>
+</p>
+<br>
+<br>
+<h1>Gameplay Panel</h1>
+<p>
+When this panel is opened, the current gameplay is selected so that you can see current settings.
+</p>
+
+<h2>4 sections</h2>
+<p>
+   - Movement<br>
+   - Miscellaneous<br>
+   - Speed<br>
+   - Buttons<br>
+</p>
+<br>
+<h2>Creating a new Gameplay</h2>
+<p>
+You must be an administrator to be able to create a new gameplay. To check that you are admin, go to the "Admin Panel" (F11 by default) and check that "You are administrator" is written in green. Otherwise, fill in the server RCON password and click "submit". Then go back to the gameplay panel. <br><br>
+- Click on the zone next to "Gameplay". The zone should turn red.<br>
+- Enter the name of your choice : i.e. <i>My gameplay</i><br>
+- When creating your own gameplay, it is easier to use an existing reference. The buttons "Set Original HL2MP" and "Set Pro" permits you to load the full set of parameters for either Regular HL2DM or Promod. <br>
+- Then you can alter the values in this panel to match your needs. <br>
+<br>
+<b>What these parameters do affect in term of gameplay is defined below :</b> <br>
+<br>
+    <b>Movement section</b><br>
+       - <i>Walk speed</i>: velocity when you walk<br>
+       - <i>Normal speed</i>: velocity when you run<br>
+       - <i>Sprint speed</i>: velocity when you sprint<br>
+       - <i>Bunny hopping</i>: check this box to allow bunny hopping ala "pro" (with on-air acceleration)<br>
+       - <i>Long jump</i>: check this box to allow Jump Pack<br>
+       - <i>Wall jump</i>: check this box to allow Wall jumps<br><br>
+    <b>Miscellaneous section</b><br>
+       - <i>Drop weapons</i>: check this box to allow players to drop weapons<br>
+       - <i>357 zoom</i>: check this box to allow zoom for magnum<br>
+       - <i>RPG toggle guiding</i>: check this box to allow rocket guiding to be disabled or not by the player in game<br>
+       - <i>Brightskins</i>: check this box to activate brightskins. It is similar to accept or not 6 teams. You can only have 2 teams without brightskins.<br>
+       - <i>Combine ball self kill</i>: check this box to make combine ball able to kill the shooter<br><br>
+    <b>Speed section</b><br>
+       - <i>Missile speed</i>: speed of the missile<br>
+       - <i>Non-zoomed Air Bolt speed</i>: speed of bolt when in air and not zoomed. Take care that bolt has a weight.<br>
+       - <i>Zoomed Air Bolt speed</i>: speed of bolt when in air and zoomed. Take care that bolt has a weight.<br>
+       - <i>Non-Zoom Water Bolt speed</i>: speed of bolt when in water and not zoomed. Take car that bolt has a weight.<br>
+       - <i>Zoomed Water Bolt speed</i>: speed of bolt when in water and zoomed. Take car that bolt has a weight.<br>
+<br>
+By clicking "Weapons" button you reach the section where you can alter the settings related to each weapon. The weapons section is pretty complex so it has been divided in 2 panels. Click on Help in each section to get explanation for each parameter.<br>
+<br>
+- Click "Submit" to send your new gameplay defintion to the server. A message box must confirm the success of the transfer.<br>
+- Click on "Close" to close the "Gameplay" panel.<br>
+<br>
+At this point in time you have created a gameplay but this gameplay is not active. To activate it, you have to ensure that it is votable and use it in your server. Proceed as follow :<br><br>
+   - Open the Admin panel<br>
+   - In the box "Settings" ensure that "Gameplay" is set to "Votable"<br>
+   - Open the "Command Menu"<br>
+   - In the "Settings" box, vote for "My gameplay" gameplay<br>
+<br>
+Enjoy !!!
+</p>
+<br>
+<h2>Exporting/Importing a Gameplay</h2>
+<p>
+Let's say that you like a gameplay available in a server you are not the admin and that you want to implement this specific gameplay in your server then here is how to proceed.<br>
+<br>
+<b>Exporting from server:</b><br><br>
+- Join the server with the gameplay you want to get<br>
+- Go to the "Admin Panel" (F11)<br>
+- Click on "Gameplay"<br>
+- Click on "Export from server" --> a message will inform you that the gameplay has been exported successfully and that it is  locate in your cfg/gameplay folder<br>
+<br>
+<b>Send to your server:</b><br><br>
+- Join your server<br>
+- Go to "Admin Panel" (F11)<br>
+- Login as Administrator<br>
+- Click on "Gameplay"<br>
+- Click on "Send to server"<br>
+- Select the gameplay file you just exported in your cfg/gameplay folder --> a message will inform you that gameplay has been successfully exported<br>
+- Click "Close" button<br>
+- Open the Admin panel<br>
+- In the box "Settings" ensure that "Gameplay" is set to "Votable"<br>
+- Open the "Command Menu"<br>
+- In the "Settings" box, vote for the gameplay you just sent<br>
+<br>
+Enjoy !!!<br>
+</p>
+<br>
+<br>
+<h1>Weapons Panel</h1>
+<p>
+A specific help to this panel is available by clicking "Help" in this panel.
+</p>
+<br>
+<br>
+<h1>Clip Size / Push Panel</h1>
+<p>
+A specific help to this panel is available by clicking "Help" in this panel.
+</p>
+
+</body>
+</html>

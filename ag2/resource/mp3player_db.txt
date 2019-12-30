@@ -1,0 +1,2964 @@
+// mp3 database, automatically generated
+songs
+{
+  file
+  {
+    filenumber 0
+    fromgame 1
+    subdirindex 0
+    short "01.mp3"
+    filename "01. besoin d'espace.mp3"
+  }
+  file
+  {
+    filenumber 1
+    fromgame 1
+    subdirindex 0
+    short "02.mp3"
+    filename "02. héroÏne.mp3"
+  }
+  file
+  {
+    filenumber 2
+    fromgame 1
+    subdirindex 0
+    short "03.mp3"
+    filename "03. a coeurt ouvert.mp3"
+  }
+  file
+  {
+    filenumber 3
+    fromgame 1
+    subdirindex 0
+    short "04.mp3"
+    filename "04. des larmes.mp3"
+  }
+  file
+  {
+    filenumber 4
+    fromgame 1
+    subdirindex 0
+    short "05.mp3"
+    filename "05. s'arrêter là.mp3"
+  }
+  file
+  {
+    filenumber 5
+    fromgame 1
+    subdirindex 0
+    short "06.mp3"
+    filename "06. la même erreur.mp3"
+  }
+  file
+  {
+    filenumber 6
+    fromgame 1
+    subdirindex 0
+    short "07.mp3"
+    filename "07. ecoute moi.mp3"
+  }
+  file
+  {
+    filenumber 7
+    fromgame 1
+    subdirindex 0
+    short "08.mp3"
+    filename "08. bretagne dédicace.mp3"
+  }
+  file
+  {
+    filenumber 8
+    fromgame 1
+    subdirindex 0
+    short "09.mp3"
+    filename "09. comme un frère.mp3"
+  }
+  file
+  {
+    filenumber 9
+    fromgame 1
+    subdirindex 0
+    short "10.mp3"
+    filename "10. je savais.mp3"
+  }
+  file
+  {
+    filenumber 10
+    fromgame 1
+    subdirindex 0
+    short "11.mp3"
+    filename "11. là haut.mp3"
+  }
+  file
+  {
+    filenumber 11
+    fromfs 1
+    subdirindex 1
+    short "02 - Alizée - A contre-courant.mp3"
+    filename "alizée - mes courants Électriques\02 - alizée - a contre-courant.mp3"
+  }
+  file
+  {
+    filenumber 12
+    fromfs 1
+    subdirindex 1
+    short "03 - Alizée - Toc de mac.mp3"
+    filename "alizée - mes courants Électriques\03 - alizée - toc de mac.mp3"
+  }
+  file
+  {
+    filenumber 13
+    fromfs 1
+    subdirindex 1
+    short "04 - Alizée - Amélie.mp3"
+    filename "alizée - mes courants Électriques\04 - alizée - amélie.mp3"
+  }
+  file
+  {
+    filenumber 14
+    fromfs 1
+    subdirindex 1
+    short "05 - Alizée - C'est trop tard.mp3"
+    filename "alizée - mes courants Électriques\05 - alizée - c'est trop tard.mp3"
+  }
+  file
+  {
+    filenumber 15
+    fromfs 1
+    subdirindex 1
+    short "06 - Alizée - Tempête.mp3"
+    filename "alizée - mes courants Électriques\06 - alizée - tempête.mp3"
+  }
+  file
+  {
+    filenumber 16
+    fromfs 1
+    subdirindex 1
+    short "07 - Alizée - I'm not twenty !.mp3"
+    filename "alizée - mes courants Électriques\07 - alizée - i'm not twenty !.mp3"
+  }
+  file
+  {
+    filenumber 17
+    fromfs 1
+    subdirindex 1
+    short "08 - Alizée - Hey ! Amigo !.mp3"
+    filename "alizée - mes courants Électriques\08 - alizée - hey ! amigo !.mp3"
+  }
+  file
+  {
+    filenumber 18
+    fromfs 1
+    subdirindex 1
+    short "09 - Alizée - L'e-mail a des ailes.mp3"
+    filename "alizée - mes courants Électriques\09 - alizée - l'e-mail a des ailes.mp3"
+  }
+  file
+  {
+    filenumber 19
+    fromfs 1
+    subdirindex 1
+    short "10 - Alizée - Youpidoo.mp3"
+    filename "alizée - mes courants Électriques\10 - alizée - youpidoo.mp3"
+  }
+  file
+  {
+    filenumber 20
+    fromfs 1
+    subdirindex 1
+    short "11 - Alizée - Coeur déjà pris.mp3"
+    filename "alizée - mes courants Électriques\11 - alizée - coeur déjà pris.mp3"
+  }
+  file
+  {
+    filenumber 21
+    fromfs 1
+    subdirindex 1
+    short "12 - Alizée - J'en ai marre !.mp3"
+    filename "alizée - mes courants Électriques\12 - alizée - j'en ai marre !.mp3"
+  }
+  file
+  {
+    filenumber 22
+    fromfs 1
+    subdirindex 1
+    short "13 - Alizée - Amélie m'a dit.mp3"
+    filename "alizée - mes courants Électriques\13 - alizée - amélie m'a dit.mp3"
+  }
+  file
+  {
+    filenumber 23
+    fromfs 1
+    subdirindex 1
+    short "14 - Alizée - J'ai pas vingt ans !.mp3"
+    filename "alizée - mes courants Électriques\14 - alizée - j'ai pas vingt ans !.mp3"
+  }
+  file
+  {
+    filenumber 24
+    fromfs 1
+    subdirindex 1
+    short "15 - Alizée - Youpidou.mp3"
+    filename "alizée - mes courants Électriques\15 - alizée - youpidou.mp3"
+  }
+  file
+  {
+    filenumber 25
+    fromfs 1
+    subdirindex 1
+    short "01-A Pain That I'm Used To.mp3"
+    filename "angel\01-a pain that i'm used to.mp3"
+  }
+  file
+  {
+    filenumber 26
+    fromfs 1
+    subdirindex 1
+    short "02-John The Revelator.mp3"
+    filename "angel\02-john the revelator.mp3"
+  }
+  file
+  {
+    filenumber 27
+    fromfs 1
+    subdirindex 1
+    short "03-Suffer Well.mp3"
+    filename "angel\03-suffer well.mp3"
+  }
+  file
+  {
+    filenumber 28
+    fromfs 1
+    subdirindex 1
+    short "04-The Sinner In Me.mp3"
+    filename "angel\04-the sinner in me.mp3"
+  }
+  file
+  {
+    filenumber 29
+    fromfs 1
+    subdirindex 1
+    short "05-Precious.mp3"
+    filename "angel\05-precious.mp3"
+  }
+  file
+  {
+    filenumber 30
+    fromfs 1
+    subdirindex 1
+    short "06-Macrovision.mp3"
+    filename "angel\06-macrovision.mp3"
+  }
+  file
+  {
+    filenumber 31
+    fromfs 1
+    subdirindex 1
+    short "07-I Want It All.mp3"
+    filename "angel\07-i want it all.mp3"
+  }
+  file
+  {
+    filenumber 32
+    fromfs 1
+    subdirindex 1
+    short "08-Nothing's Impossible.mp3"
+    filename "angel\08-nothing's impossible.mp3"
+  }
+  file
+  {
+    filenumber 33
+    fromfs 1
+    subdirindex 1
+    short "09-Introspectre.mp3"
+    filename "angel\09-introspectre.mp3"
+  }
+  file
+  {
+    filenumber 34
+    fromfs 1
+    subdirindex 1
+    short "10-Damaged People.mp3"
+    filename "angel\10-damaged people.mp3"
+  }
+  file
+  {
+    filenumber 35
+    fromfs 1
+    subdirindex 1
+    short "11-Lillian.mp3"
+    filename "angel\11-lillian.mp3"
+  }
+  file
+  {
+    filenumber 36
+    fromfs 1
+    subdirindex 1
+    short "12-The Darkest Star.mp3"
+    filename "angel\12-the darkest star.mp3"
+  }
+  file
+  {
+    filenumber 37
+    fromfs 1
+    subdirindex 1
+    short "Backstreet Boys - Incomplete.mp3"
+    filename "backstreet boys - incomplete.mp3"
+  }
+  file
+  {
+    filenumber 38
+    fromfs 1
+    subdirindex 1
+    short "(sash!) - together again (10).mp3"
+    filename "dance\(sash!) - together again (10).mp3"
+  }
+  file
+  {
+    filenumber 39
+    fromfs 1
+    subdirindex 1
+    short "01 - Miss Shiva - Dreams.mp3"
+    filename "dance\01 - miss shiva - dreams.mp3"
+  }
+  file
+  {
+    filenumber 40
+    fromfs 1
+    subdirindex 1
+    short "01.mp3"
+    filename "dance\01. pulsedriver - cambodia (radio edit).mp3"
+  }
+  file
+  {
+    filenumber 41
+    fromfs 1
+    subdirindex 1
+    short "02 - Alice Deejay - Back In My Life.mp3"
+    filename "dance\02 - alice deejay - back in my life.mp3"
+  }
+  file
+  {
+    filenumber 42
+    fromfs 1
+    subdirindex 1
+    short "02 - Dream Wave - Lift Off.mp3"
+    filename "dance\02 - dream wave - lift off.mp3"
+  }
+  file
+  {
+    filenumber 43
+    fromfs 1
+    subdirindex 1
+    short "04 - Kai Tracid - Destiny's Path (Tandu Remix).mp3"
+    filename "dance\04 - kai tracid - destiny's path (tandu remix).mp3"
+  }
+  file
+  {
+    filenumber 44
+    fromfs 1
+    subdirindex 1
+    short "04 - Rainmaker - Secrets Of Asia.mp3"
+    filename "dance\04 - rainmaker - secrets of asia.mp3"
+  }
+  file
+  {
+    filenumber 45
+    fromfs 1
+    subdirindex 1
+    short "06 - 2 Unlimited - The Edge Of Heaven.mp3"
+    filename "dance\06 - 2 unlimited - the edge of heaven.mp3"
+  }
+  file
+  {
+    filenumber 46
+    fromfs 1
+    subdirindex 1
+    short "07 - Antiloop - In My Mind.mp3"
+    filename "dance\07 - antiloop - in my mind.mp3"
+  }
+  file
+  {
+    filenumber 47
+    fromfs 1
+    subdirindex 1
+    short "09 - Gala - Let A Boy Cry '98 (Motiv 8 Floormungus Vocal Mix).mp3"
+    filename "dance\09 - gala - let a boy cry '98 (motiv 8 floormungus vocal mix).mp3"
+  }
+  file
+  {
+    filenumber 48
+    fromfs 1
+    subdirindex 1
+    short "10 - French Affair - My Heart Goes Boom.mp3"
+    filename "dance\10 - french affair - my heart goes boom.mp3"
+  }
+  file
+  {
+    filenumber 49
+    fromfs 1
+    subdirindex 1
+    short "11 - Sonique - Sky.mp3"
+    filename "dance\11 - sonique - sky.mp3"
+  }
+  file
+  {
+    filenumber 50
+    fromfs 1
+    subdirindex 1
+    short "12 - E-Rotic - Charlene.mp3"
+    filename "dance\12 - e-rotic - charlene.mp3"
+  }
+  file
+  {
+    filenumber 51
+    fromfs 1
+    subdirindex 1
+    short "13 - Liquid Child - Return To The Atlantis.mp3"
+    filename "dance\13 - liquid child - return to the atlantis.mp3"
+  }
+  file
+  {
+    filenumber 52
+    fromfs 1
+    subdirindex 1
+    short "13 - Miss Jane - It's A Fine Day.mp3"
+    filename "dance\13 - miss jane - it's a fine day.mp3"
+  }
+  file
+  {
+    filenumber 53
+    fromfs 1
+    subdirindex 1
+    short "Culture Beat - More And More.mp3"
+    filename "dance\culture beat - more and more.mp3"
+  }
+  file
+  {
+    filenumber 54
+    fromfs 1
+    subdirindex 1
+    short "Culture Beat - Pay no mind.mp3"
+    filename "dance\culture beat - pay no mind.mp3"
+  }
+  file
+  {
+    filenumber 55
+    fromfs 1
+    subdirindex 1
+    short "Dax Riders - People.mp3"
+    filename "dance\dax riders - people.mp3"
+  }
+  file
+  {
+    filenumber 56
+    fromfs 1
+    subdirindex 1
+    short "E-Type - Angels Crying.mp3"
+    filename "dance\e-type - angels crying.mp3"
+  }
+  file
+  {
+    filenumber 57
+    fromfs 1
+    subdirindex 1
+    short "KimWilde-Loved(PulsedriverVsBeamRemix).mp3"
+    filename "dance\kimwilde-loved(pulsedrivervsbeamremix).mp3"
+  }
+  file
+  {
+    filenumber 58
+    fromfs 1
+    subdirindex 1
+    short "laava - wherever you are [pulsedriver rmx].mp3"
+    filename "dance\laava - wherever you are [pulsedriver rmx].mp3"
+  }
+  file
+  {
+    filenumber 59
+    fromfs 1
+    subdirindex 1
+    short "Les Rythmes Digitales- [Hey you] What's that Sound.mp3"
+    filename "dance\les rythmes digitales- [hey you] what's that sound.mp3"
+  }
+  file
+  {
+    filenumber 60
+    fromfs 1
+    subdirindex 1
+    short "Lovestern Galaktika Project meets Pulsedriver - Move for freedom [club mix].mp3"
+    filename "dance\lovestern galaktika project meets pulsedriver - move for freedom [club mix].mp3"
+  }
+  file
+  {
+    filenumber 61
+    fromfs 1
+    subdirindex 1
+    short "owneyes.mp3"
+    filename "dance\owneyes.mp3"
+  }
+  file
+  {
+    filenumber 62
+    fromfs 1
+    subdirindex 1
+    short "Pulsedriver - Your Spirit Is Shining (Short Mix).mp3"
+    filename "dance\pulsedriver - your spirit is shining (short mix).mp3"
+  }
+  file
+  {
+    filenumber 63
+    fromfs 1
+    subdirindex 1
+    short "Sisters Of Mercy - Temple Of Love.mp3"
+    filename "dance\sisters of mercy - temple of love.mp3"
+  }
+  file
+  {
+    filenumber 64
+    fromfs 1
+    subdirindex 1
+    short "Watergate - Heart of Asia.mp3"
+    filename "dance\watergate - heart of asia.mp3"
+  }
+  file
+  {
+    filenumber 65
+    fromfs 1
+    subdirindex 1
+    short "Track No01.mp3"
+    filename "deeppurple\deep purple\the 1997 remixes\track no01.mp3"
+  }
+  file
+  {
+    filenumber 66
+    fromfs 1
+    subdirindex 1
+    short "Track No02.mp3"
+    filename "deeppurple\deep purple\the 1997 remixes\track no02.mp3"
+  }
+  file
+  {
+    filenumber 67
+    fromfs 1
+    subdirindex 1
+    short "Track No03.mp3"
+    filename "deeppurple\deep purple\the 1997 remixes\track no03.mp3"
+  }
+  file
+  {
+    filenumber 68
+    fromfs 1
+    subdirindex 1
+    short "Track No04.mp3"
+    filename "deeppurple\deep purple\the 1997 remixes\track no04.mp3"
+  }
+  file
+  {
+    filenumber 69
+    fromfs 1
+    subdirindex 1
+    short "Track No05.mp3"
+    filename "deeppurple\deep purple\the 1997 remixes\track no05.mp3"
+  }
+  file
+  {
+    filenumber 70
+    fromfs 1
+    subdirindex 1
+    short "Track No06.mp3"
+    filename "deeppurple\deep purple\the 1997 remixes\track no06.mp3"
+  }
+  file
+  {
+    filenumber 71
+    fromfs 1
+    subdirindex 1
+    short "Track No07.mp3"
+    filename "deeppurple\deep purple\the 1997 remixes\track no07.mp3"
+  }
+  file
+  {
+    filenumber 72
+    fromfs 1
+    subdirindex 1
+    short "Track No08.mp3"
+    filename "deeppurple\deep purple\the 1997 remixes\track no08.mp3"
+  }
+  file
+  {
+    filenumber 73
+    fromfs 1
+    subdirindex 1
+    short "Track No01.mp3"
+    filename "deeppurple\deep purple\the remasters\track no01.mp3"
+  }
+  file
+  {
+    filenumber 74
+    fromfs 1
+    subdirindex 1
+    short "Track No02.mp3"
+    filename "deeppurple\deep purple\the remasters\track no02.mp3"
+  }
+  file
+  {
+    filenumber 75
+    fromfs 1
+    subdirindex 1
+    short "Track No03.mp3"
+    filename "deeppurple\deep purple\the remasters\track no03.mp3"
+  }
+  file
+  {
+    filenumber 76
+    fromfs 1
+    subdirindex 1
+    short "Track No04.mp3"
+    filename "deeppurple\deep purple\the remasters\track no04.mp3"
+  }
+  file
+  {
+    filenumber 77
+    fromfs 1
+    subdirindex 1
+    short "Track No05.mp3"
+    filename "deeppurple\deep purple\the remasters\track no05.mp3"
+  }
+  file
+  {
+    filenumber 78
+    fromfs 1
+    subdirindex 1
+    short "Track No06.mp3"
+    filename "deeppurple\deep purple\the remasters\track no06.mp3"
+  }
+  file
+  {
+    filenumber 79
+    fromfs 1
+    subdirindex 1
+    short "Track No07.mp3"
+    filename "deeppurple\deep purple\the remasters\track no07.mp3"
+  }
+  file
+  {
+    filenumber 80
+    fromfs 1
+    subdirindex 1
+    short "Track No08.mp3"
+    filename "deeppurple\deep purple\the remasters\track no08.mp3"
+  }
+  file
+  {
+    filenumber 81
+    fromfs 1
+    subdirindex 1
+    short "Track No09.mp3"
+    filename "deeppurple\deep purple\the remasters\track no09.mp3"
+  }
+  file
+  {
+    filenumber 82
+    fromfs 1
+    subdirindex 1
+    short "Track No10.mp3"
+    filename "deeppurple\deep purple\the remasters\track no10.mp3"
+  }
+  file
+  {
+    filenumber 83
+    fromfs 1
+    subdirindex 1
+    short "A corps perdu.mp3"
+    filename "gregory lemarchal\a corps perdu.mp3"
+  }
+  file
+  {
+    filenumber 84
+    fromfs 1
+    subdirindex 1
+    short "Ecris l'histoire.mp3"
+    filename "gregory lemarchal\ecris l'histoire.mp3"
+  }
+  file
+  {
+    filenumber 85
+    fromfs 1
+    subdirindex 1
+    short "Il n'y a qu'un pas.mp3"
+    filename "gregory lemarchal\il n'y a qu'un pas.mp3"
+  }
+  file
+  {
+    filenumber 86
+    fromfs 1
+    subdirindex 1
+    short "Je deviens moi.mp3"
+    filename "gregory lemarchal\je deviens moi.mp3"
+  }
+  file
+  {
+    filenumber 87
+    fromfs 1
+    subdirindex 1
+    short "Je suis en vie.mp3"
+    filename "gregory lemarchal\je suis en vie.mp3"
+  }
+  file
+  {
+    filenumber 88
+    fromfs 1
+    subdirindex 1
+    short "Je t'écris.mp3"
+    filename "gregory lemarchal\je t'écris.mp3"
+  }
+  file
+  {
+    filenumber 89
+    fromfs 1
+    subdirindex 1
+    short "Le bonheur tout simplement.mp3"
+    filename "gregory lemarchal\le bonheur tout simplement.mp3"
+  }
+  file
+  {
+    filenumber 90
+    fromfs 1
+    subdirindex 1
+    short "Le feu sur les planches.mp3"
+    filename "gregory lemarchal\le feu sur les planches.mp3"
+  }
+  file
+  {
+    filenumber 91
+    fromfs 1
+    subdirindex 1
+    short "Mon ange.mp3"
+    filename "gregory lemarchal\mon ange.mp3"
+  }
+  file
+  {
+    filenumber 92
+    fromfs 1
+    subdirindex 1
+    short "Pardonne-moi.mp3"
+    filename "gregory lemarchal\pardonne-moi.mp3"
+  }
+  file
+  {
+    filenumber 93
+    fromfs 1
+    subdirindex 1
+    short "Promets-moi.mp3"
+    filename "gregory lemarchal\promets-moi.mp3"
+  }
+  file
+  {
+    filenumber 94
+    fromfs 1
+    subdirindex 1
+    short "Une vie moins ordinaire.mp3"
+    filename "gregory lemarchal\une vie moins ordinaire.mp3"
+  }
+  file
+  {
+    filenumber 95
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 3 - 01 - 3ème Sexe.mp3"
+    filename "indochine - 3\indochine - 3 - 01 - 3ème sexe.mp3"
+  }
+  file
+  {
+    filenumber 96
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 3 - 02 - Canary Bay.mp3"
+    filename "indochine - 3\indochine - 3 - 02 - canary bay.mp3"
+  }
+  file
+  {
+    filenumber 97
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 3 - 03 - Monte Cristo.mp3"
+    filename "indochine - 3\indochine - 3 - 03 - monte cristo.mp3"
+  }
+  file
+  {
+    filenumber 98
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 3 - 04 - Salômbo.mp3"
+    filename "indochine - 3\indochine - 3 - 04 - salômbo.mp3"
+  }
+  file
+  {
+    filenumber 99
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 3 - 05 - Hors La Loi.mp3"
+    filename "indochine - 3\indochine - 3 - 05 - hors la loi.mp3"
+  }
+  file
+  {
+    filenumber 100
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 3 - 06 - A l'assaut (Des Ombres Sur l'O).mp3"
+    filename "indochine - 3\indochine - 3 - 06 - a l'assaut (des ombres sur l'o).mp3"
+  }
+  file
+  {
+    filenumber 101
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 3 - 07 - Trois Nuits Par Semaine.mp3"
+    filename "indochine - 3\indochine - 3 - 07 - trois nuits par semaine.mp3"
+  }
+  file
+  {
+    filenumber 102
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 3 - 08 - Le Train Sauvage.mp3"
+    filename "indochine - 3\indochine - 3 - 08 - le train sauvage.mp3"
+  }
+  file
+  {
+    filenumber 103
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 3 - 09 - Tes Yeux Noirs.mp3"
+    filename "indochine - 3\indochine - 3 - 09 - tes yeux noirs.mp3"
+  }
+  file
+  {
+    filenumber 104
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 7000 Danses - 01 - La Bûddha Affaire.mp3"
+    filename "indochine - 7000 danses\indochine - 7000 danses - 01 - la bûddha affaire.mp3"
+  }
+  file
+  {
+    filenumber 105
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 7000 Danses - 02 - Les Citadelles.mp3"
+    filename "indochine - 7000 danses\indochine - 7000 danses - 02 - les citadelles.mp3"
+  }
+  file
+  {
+    filenumber 106
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 7000 Danses - 03 - La Chevauchée Des Champs De Blé.mp3"
+    filename "indochine - 7000 danses\indochine - 7000 danses - 03 - la chevauchée des champs de blé.mp3"
+  }
+  file
+  {
+    filenumber 107
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 7000 Danses - 04 - Il y a Un Risque (Le Mépris).mp3"
+    filename "indochine - 7000 danses\indochine - 7000 danses - 04 - il y a un risque (le mépris).mp3"
+  }
+  file
+  {
+    filenumber 108
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 7000 Danses - 05 - Les Tzars.mp3"
+    filename "indochine - 7000 danses\indochine - 7000 danses - 05 - les tzars.mp3"
+  }
+  file
+  {
+    filenumber 109
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 7000 Danses - 06 - La Machine à Rattraper Le Temps.mp3"
+    filename "indochine - 7000 danses\indochine - 7000 danses - 06 - la machine à rattraper le temps.mp3"
+  }
+  file
+  {
+    filenumber 110
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 7000 Danses - 07 - Un Grand Carnaval.mp3"
+    filename "indochine - 7000 danses\indochine - 7000 danses - 07 - un grand carnaval.mp3"
+  }
+  file
+  {
+    filenumber 111
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 7000 Danses - 08 - 7000 Danses.mp3"
+    filename "indochine - 7000 danses\indochine - 7000 danses - 08 - 7000 danses.mp3"
+  }
+  file
+  {
+    filenumber 112
+    fromfs 1
+    subdirindex 1
+    short "Indochine - 7000 Danses - 09 - Une Maison Perdue.."
+    filename "indochine - 7000 danses\indochine - 7000 danses - 09 - une maison perdue....mp3"
+  }
+  file
+  {
+    filenumber 113
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 01 - L'Aventurier.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 01 - l'aventurier.mp3"
+  }
+  file
+  {
+    filenumber 114
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 02 - Dizzidence Politik.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 02 - dizzidence politik.mp3"
+  }
+  file
+  {
+    filenumber 115
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 03 - Koa Bang.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 03 - koa bang.mp3"
+  }
+  file
+  {
+    filenumber 116
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 04 - Le Péril Jaune.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 04 - le péril jaune.mp3"
+  }
+  file
+  {
+    filenumber 117
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 05 - Miss Paramount.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 05 - miss paramount.mp3"
+  }
+  file
+  {
+    filenumber 118
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 06 - Trois Nuits Par Semaine.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 06 - trois nuits par semaine.mp3"
+  }
+  file
+  {
+    filenumber 119
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 07 - Tes Yeux Noirs.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 07 - tes yeux noirs.mp3"
+  }
+  file
+  {
+    filenumber 120
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 08 - 3ème Sexe.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 08 - 3ème sexe.mp3"
+  }
+  file
+  {
+    filenumber 121
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 09 - Canary Bay.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 09 - canary bay.mp3"
+  }
+  file
+  {
+    filenumber 122
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 10 - La Bûddha Affaire.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 10 - la bûddha affaire.mp3"
+  }
+  file
+  {
+    filenumber 123
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 11 - La Chevauché Des Champs De Blé.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 11 - la chevauché des champs de blé.mp3"
+  }
+  file
+  {
+    filenumber 124
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 12 - Les Tzars.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 12 - les tzars.mp3"
+  }
+  file
+  {
+    filenumber 125
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 13 - La Machine à Rattraper Le Temps.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 13 - la machine à rattraper le temps.mp3"
+  }
+  file
+  {
+    filenumber 126
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 14 - Des Fleurs Pour Salinger.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 14 - des fleurs pour salinger.mp3"
+  }
+  file
+  {
+    filenumber 127
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 15 - Le Baiser.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 15 - le baiser.mp3"
+  }
+  file
+  {
+    filenumber 128
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 16 - Alertez Managua.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 16 - alertez managua.mp3"
+  }
+  file
+  {
+    filenumber 129
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 17 - Punishment Park.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 17 - punishment park.mp3"
+  }
+  file
+  {
+    filenumber 130
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 18 - More.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 18 - more.mp3"
+  }
+  file
+  {
+    filenumber 131
+    fromfs 1
+    subdirindex 1
+    short "Indochine - The Birthday Album - 19 - La Guerre Est Finie.mp3"
+    filename "indochine - le birthday album\indochine - the birthday album - 19 - la guerre est finie.mp3"
+  }
+  file
+  {
+    filenumber 132
+    fromfs 1
+    subdirindex 1
+    short "101-indochine-la_promesse.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\101-indochine-la_promesse.mp3"
+  }
+  file
+  {
+    filenumber 133
+    fromfs 1
+    subdirindex 1
+    short "102-indochine-les_portes_du_soir.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\102-indochine-les_portes_du_soir.mp3"
+  }
+  file
+  {
+    filenumber 134
+    fromfs 1
+    subdirindex 1
+    short "103-indochine-alice_et_june.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\103-indochine-alice_et_june.mp3"
+  }
+  file
+  {
+    filenumber 135
+    fromfs 1
+    subdirindex 1
+    short "104-indochine-gang_bang.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\104-indochine-gang_bang.mp3"
+  }
+  file
+  {
+    filenumber 136
+    fromfs 1
+    subdirindex 1
+    short "105-indochine-ladyboy.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\105-indochine-ladyboy.mp3"
+  }
+  file
+  {
+    filenumber 137
+    fromfs 1
+    subdirindex 1
+    short "106-indochine-black_page.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\106-indochine-black_page.mp3"
+  }
+  file
+  {
+    filenumber 138
+    fromfs 1
+    subdirindex 1
+    short "107-indochine-pink_water_3_avec_brian_molko.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\107-indochine-pink_water_3_avec_brian_molko.mp3"
+  }
+  file
+  {
+    filenumber 139
+    fromfs 1
+    subdirindex 1
+    short "108-indochine-adora.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\108-indochine-adora.mp3"
+  }
+  file
+  {
+    filenumber 140
+    fromfs 1
+    subdirindex 1
+    short "109-indochine-un_homme_dans_la_bouche.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\109-indochine-un_homme_dans_la_bouche.mp3"
+  }
+  file
+  {
+    filenumber 141
+    fromfs 1
+    subdirindex 1
+    short "110-indochine-vibrator.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\110-indochine-vibrator.mp3"
+  }
+  file
+  {
+    filenumber 142
+    fromfs 1
+    subdirindex 1
+    short "111-indochine-ceremonia.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\111-indochine-ceremonia.mp3"
+  }
+  file
+  {
+    filenumber 143
+    fromfs 1
+    subdirindex 1
+    short "201-indochine-le_pacte.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\201-indochine-le_pacte.mp3"
+  }
+  file
+  {
+    filenumber 144
+    fromfs 1
+    subdirindex 1
+    short "202-indochine-june.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\202-indochine-june.mp3"
+  }
+  file
+  {
+    filenumber 145
+    fromfs 1
+    subdirindex 1
+    short "203-indochine-sweet_dreams.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\203-indochine-sweet_dreams.mp3"
+  }
+  file
+  {
+    filenumber 146
+    fromfs 1
+    subdirindex 1
+    short "204-indochine-belle_et_sebastiane.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\204-indochine-belle_et_sebastiane.mp3"
+  }
+  file
+  {
+    filenumber 147
+    fromfs 1
+    subdirindex 1
+    short "205-indochine-crash_me.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\205-indochine-crash_me.mp3"
+  }
+  file
+  {
+    filenumber 148
+    fromfs 1
+    subdirindex 1
+    short "206-indochine-aujourdhui_je_pleure_avec_aqme.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\206-indochine-aujourdhui_je_pleure_avec_aqme.mp3"
+  }
+  file
+  {
+    filenumber 149
+    fromfs 1
+    subdirindex 1
+    short "207-indochine-harry_poppers_avec_wampas.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\207-indochine-harry_poppers_avec_wampas.mp3"
+  }
+  file
+  {
+    filenumber 150
+    fromfs 1
+    subdirindex 1
+    short "208-indochine-talulla.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\208-indochine-talulla.mp3"
+  }
+  file
+  {
+    filenumber 151
+    fromfs 1
+    subdirindex 1
+    short "209-indochine-morphine.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\209-indochine-morphine.mp3"
+  }
+  file
+  {
+    filenumber 152
+    fromfs 1
+    subdirindex 1
+    short "210-indochine-starlight_avec_scala_et_kolacny_broth.mp3"
+    filename "indochine-alice\indochine-alice_et_june-2cd-fr-2005-mvp\210-indochine-starlight_avec_scala_et_kolacny_broth.mp3"
+  }
+  file
+  {
+    filenumber 153
+    fromfs 1
+    subdirindex 1
+    short "101-indochine-la_promesse.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\101-indochine-la_promesse.mp3"
+  }
+  file
+  {
+    filenumber 154
+    fromfs 1
+    subdirindex 1
+    short "102-indochine-les_portes_du_soir.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\102-indochine-les_portes_du_soir.mp3"
+  }
+  file
+  {
+    filenumber 155
+    fromfs 1
+    subdirindex 1
+    short "103-indochine-alice_et_june.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\103-indochine-alice_et_june.mp3"
+  }
+  file
+  {
+    filenumber 156
+    fromfs 1
+    subdirindex 1
+    short "104-indochine-gang_bang.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\104-indochine-gang_bang.mp3"
+  }
+  file
+  {
+    filenumber 157
+    fromfs 1
+    subdirindex 1
+    short "105-indochine-ladyboy.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\105-indochine-ladyboy.mp3"
+  }
+  file
+  {
+    filenumber 158
+    fromfs 1
+    subdirindex 1
+    short "106-indochine-black_page.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\106-indochine-black_page.mp3"
+  }
+  file
+  {
+    filenumber 159
+    fromfs 1
+    subdirindex 1
+    short "107-indochine-pink_water_3_avec_brian_molko.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\107-indochine-pink_water_3_avec_brian_molko.mp3"
+  }
+  file
+  {
+    filenumber 160
+    fromfs 1
+    subdirindex 1
+    short "108-indochine-adora.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\108-indochine-adora.mp3"
+  }
+  file
+  {
+    filenumber 161
+    fromfs 1
+    subdirindex 1
+    short "109-indochine-un_homme_dans_la_bouche.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\109-indochine-un_homme_dans_la_bouche.mp3"
+  }
+  file
+  {
+    filenumber 162
+    fromfs 1
+    subdirindex 1
+    short "110-indochine-vibrator.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\110-indochine-vibrator.mp3"
+  }
+  file
+  {
+    filenumber 163
+    fromfs 1
+    subdirindex 1
+    short "111-indochine-ceremonia.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\111-indochine-ceremonia.mp3"
+  }
+  file
+  {
+    filenumber 164
+    fromfs 1
+    subdirindex 1
+    short "201-indochine-le_pacte.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\201-indochine-le_pacte.mp3"
+  }
+  file
+  {
+    filenumber 165
+    fromfs 1
+    subdirindex 1
+    short "202-indochine-june.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\202-indochine-june.mp3"
+  }
+  file
+  {
+    filenumber 166
+    fromfs 1
+    subdirindex 1
+    short "203-indochine-sweet_dreams.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\203-indochine-sweet_dreams.mp3"
+  }
+  file
+  {
+    filenumber 167
+    fromfs 1
+    subdirindex 1
+    short "204-indochine-belle_et_sebastiane.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\204-indochine-belle_et_sebastiane.mp3"
+  }
+  file
+  {
+    filenumber 168
+    fromfs 1
+    subdirindex 1
+    short "205-indochine-crash_me.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\205-indochine-crash_me.mp3"
+  }
+  file
+  {
+    filenumber 169
+    fromfs 1
+    subdirindex 1
+    short "206-indochine-aujourdhui_je_pleure_avec_aqme.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\206-indochine-aujourdhui_je_pleure_avec_aqme.mp3"
+  }
+  file
+  {
+    filenumber 170
+    fromfs 1
+    subdirindex 1
+    short "207-indochine-harry_poppers_avec_wampas.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\207-indochine-harry_poppers_avec_wampas.mp3"
+  }
+  file
+  {
+    filenumber 171
+    fromfs 1
+    subdirindex 1
+    short "208-indochine-talulla.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\208-indochine-talulla.mp3"
+  }
+  file
+  {
+    filenumber 172
+    fromfs 1
+    subdirindex 1
+    short "209-indochine-morphine.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\209-indochine-morphine.mp3"
+  }
+  file
+  {
+    filenumber 173
+    fromfs 1
+    subdirindex 1
+    short "210-indochine-starlight_avec_scala_et_kolacny_broth.mp3"
+    filename "indochine-alice_et_june-2cd-fr-2005-mvp\210-indochine-starlight_avec_scala_et_kolacny_broth.mp3"
+  }
+  file
+  {
+    filenumber 174
+    fromfs 1
+    subdirindex 1
+    short "01 - Keane - Somewhere Only We Know - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\01 - keane - somewhere only we know - esdt - www.esdonkey.co.mp3"
+  }
+  file
+  {
+    filenumber 175
+    fromfs 1
+    subdirindex 1
+    short "02 - Keane - This Is The Last Time - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\02 - keane - this is the last time - esdt - www.esdonkey.com.mp3"
+  }
+  file
+  {
+    filenumber 176
+    fromfs 1
+    subdirindex 1
+    short "03 - Keane - Bend And Break - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\03 - keane - bend and break - esdt - www.esdonkey.com.mp3"
+  }
+  file
+  {
+    filenumber 177
+    fromfs 1
+    subdirindex 1
+    short "04 - Keane - We Might As Well be Strangers - ESDT - www.mp3"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\04 - keane - we might as well be strangers - esdt - www.esdo.mp3"
+  }
+  file
+  {
+    filenumber 178
+    fromfs 1
+    subdirindex 1
+    short "05 - Keane - Everybody's Changing - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\05 - keane - everybody's changing - esdt - www.esdonkey.com.mp3"
+  }
+  file
+  {
+    filenumber 179
+    fromfs 1
+    subdirindex 1
+    short "06 - Keane - Your Eyes Open - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\06 - keane - your eyes open - esdt - www.esdonkey.com.mp3"
+  }
+  file
+  {
+    filenumber 180
+    fromfs 1
+    subdirindex 1
+    short "07 - Keane - She Has No Time - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\07 - keane - she has no time - esdt - www.esdonkey.com.mp3"
+  }
+  file
+  {
+    filenumber 181
+    fromfs 1
+    subdirindex 1
+    short "08 - Keane - Can't Stop Now - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\08 - keane - can't stop now - esdt - www.esdonkey.com.mp3"
+  }
+  file
+  {
+    filenumber 182
+    fromfs 1
+    subdirindex 1
+    short "09 - Keane - Sunshine - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\09 - keane - sunshine - esdt - www.esdonkey.com.mp3"
+  }
+  file
+  {
+    filenumber 183
+    fromfs 1
+    subdirindex 1
+    short "10 - Keane - Untitled I - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\10 - keane - untitled i - esdt - www.esdonkey.com.mp3"
+  }
+  file
+  {
+    filenumber 184
+    fromfs 1
+    subdirindex 1
+    short "11 - Keane - Bedshaped - ESDT - www.esdonkey"
+    filename "keane_-_hopes_and_fears_2004_mp3_vbr_esdt_www.esdonkey.com\11 - keane - bedshaped - esdt - www.esdonkey.com.mp3"
+  }
+  file
+  {
+    filenumber 185
+    fromfs 1
+    subdirindex 1
+    short "aimee mann -  Amateur .mp3"
+    filename "magnolia\aimee mann -  amateur .mp3"
+  }
+  file
+  {
+    filenumber 186
+    fromfs 1
+    subdirindex 1
+    short "Aimee Mann - how am i different.mp3"
+    filename "magnolia\aimee mann - how am i different.mp3"
+  }
+  file
+  {
+    filenumber 187
+    fromfs 1
+    subdirindex 1
+    short "Aimee Mann - Nothing Is Good Enough.mp3"
+    filename "magnolia\aimee mann - nothing is good enough.mp3"
+  }
+  file
+  {
+    filenumber 188
+    fromfs 1
+    subdirindex 1
+    short "Aimee Mann - One is the Loneliest (Magnolia).mp3"
+    filename "magnolia\aimee mann - one is the loneliest (magnolia).mp3"
+  }
+  file
+  {
+    filenumber 189
+    fromfs 1
+    subdirindex 1
+    short "Aimee Mann - Satellite.mp3"
+    filename "magnolia\aimee mann - satellite.mp3"
+  }
+  file
+  {
+    filenumber 190
+    fromfs 1
+    subdirindex 1
+    short "Aimee Mann - Save Me (Magnolia).mp3"
+    filename "magnolia\aimee mann - save me (magnolia).mp3"
+  }
+  file
+  {
+    filenumber 191
+    fromfs 1
+    subdirindex 1
+    short "Aimee Mann - Sugar Coated.mp3"
+    filename "magnolia\aimee mann - sugar coated.mp3"
+  }
+  file
+  {
+    filenumber 192
+    fromfs 1
+    subdirindex 1
+    short "Aimee Mann - Wise Up.mp3"
+    filename "magnolia\aimee mann - wise up.mp3"
+  }
+  file
+  {
+    filenumber 193
+    fromfs 1
+    subdirindex 1
+    short "Aimee Mann - You Do.mp3"
+    filename "magnolia\aimee mann - you do.mp3"
+  }
+  file
+  {
+    filenumber 194
+    fromfs 1
+    subdirindex 1
+    short "aimee_mann_two_of_us.mp3"
+    filename "magnolia\aimee_mann_two_of_us.mp3"
+  }
+  file
+  {
+    filenumber 195
+    fromfs 1
+    subdirindex 1
+    short "Amie Mann - Red Vines.mp3"
+    filename "magnolia\amie mann - red vines.mp3"
+  }
+  file
+  {
+    filenumber 196
+    fromfs 1
+    subdirindex 1
+    short "Soundtrack - Cruel Intention - 10 - Aimee Mann - You Could Make A.mp3"
+    filename "magnolia\soundtrack - cruel intention - 10 - aimee mann - you could make a.mp3"
+  }
+  file
+  {
+    filenumber 197
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 01 - Je Ferme Les Yeux.mp3"
+    filename "najoua belyzel\najoua belyzel - 01 - je ferme les yeux.mp3"
+  }
+  file
+  {
+    filenumber 198
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 02 - Celui Qu'il Me Faut.mp3"
+    filename "najoua belyzel\najoua belyzel - 02 - celui qu'il me faut.mp3"
+  }
+  file
+  {
+    filenumber 199
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 03 - Bon Baisers De Paris.mp3"
+    filename "najoua belyzel\najoua belyzel - 03 - bon baisers de paris.mp3"
+  }
+  file
+  {
+    filenumber 200
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 04 - Comme Toi.mp3"
+    filename "najoua belyzel\najoua belyzel - 04 - comme toi.mp3"
+  }
+  file
+  {
+    filenumber 201
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 05 - L'écho Du Bonheur.mp3"
+    filename "najoua belyzel\najoua belyzel - 05 - l'écho du bonheur.mp3"
+  }
+  file
+  {
+    filenumber 202
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 06 - Gabriel.mp3"
+    filename "najoua belyzel\najoua belyzel - 06 - gabriel.mp3"
+  }
+  file
+  {
+    filenumber 203
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 07 - Stella.mp3"
+    filename "najoua belyzel\najoua belyzel - 07 - stella.mp3"
+  }
+  file
+  {
+    filenumber 204
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 08 - Des Maux Mal Soignés.mp3"
+    filename "najoua belyzel\najoua belyzel - 08 - des maux mal soignés.mp3"
+  }
+  file
+  {
+    filenumber 205
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 09 - Rentrez Aux Usa.mp3"
+    filename "najoua belyzel\najoua belyzel - 09 - rentrez aux usa.mp3"
+  }
+  file
+  {
+    filenumber 206
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 10 - Mon Sang, Le Tien.mp3"
+    filename "najoua belyzel\najoua belyzel - 10 - mon sang, le tien.mp3"
+  }
+  file
+  {
+    filenumber 207
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 11 - Docteur Gel.mp3"
+    filename "najoua belyzel\najoua belyzel - 11 - docteur gel.mp3"
+  }
+  file
+  {
+    filenumber 208
+    fromfs 1
+    subdirindex 1
+    short "Najoua Belyzel - 12 - La Berceuse.mp3"
+    filename "najoua belyzel\najoua belyzel - 12 - la berceuse.mp3"
+  }
+  file
+  {
+    filenumber 209
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 01 - J'traine des pieds.mp3"
+    filename "olivia ruiz\olivia ruiz - 01 - j'traine des pieds.mp3"
+  }
+  file
+  {
+    filenumber 210
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 02 - La femme chocolat.mp3"
+    filename "olivia ruiz\olivia ruiz - 02 - la femme chocolat.mp3"
+  }
+  file
+  {
+    filenumber 211
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 03 - I need a child.mp3"
+    filename "olivia ruiz\olivia ruiz - 03 - i need a child.mp3"
+  }
+  file
+  {
+    filenumber 212
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 04 - Non-dits.mp3"
+    filename "olivia ruiz\olivia ruiz - 04 - non-dits.mp3"
+  }
+  file
+  {
+    filenumber 213
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 05 - Thérapie de groupe.mp3"
+    filename "olivia ruiz\olivia ruiz - 05 - thérapie de groupe.mp3"
+  }
+  file
+  {
+    filenumber 214
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 06 - La petite valse de Narbonne plage.mp3"
+    filename "olivia ruiz\olivia ruiz - 06 - la petite valse de narbonne plage.mp3"
+  }
+  file
+  {
+    filenumber 215
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 07 - Quijote.mp3"
+    filename "olivia ruiz\olivia ruiz - 07 - quijote.mp3"
+  }
+  file
+  {
+    filenumber 216
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 08 - Cabaret blanc.mp3"
+    filename "olivia ruiz\olivia ruiz - 08 - cabaret blanc.mp3"
+  }
+  file
+  {
+    filenumber 217
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 09 - Goutez-moi.mp3"
+    filename "olivia ruiz\olivia ruiz - 09 - goutez-moi.mp3"
+  }
+  file
+  {
+    filenumber 218
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 11 - La petite voleuse.mp3"
+    filename "olivia ruiz\olivia ruiz - 11 - la petite voleuse.mp3"
+  }
+  file
+  {
+    filenumber 219
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 12 - La fille du vent.mp3"
+    filename "olivia ruiz\olivia ruiz - 12 - la fille du vent.mp3"
+  }
+  file
+  {
+    filenumber 220
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 13 - De toi à moi II.mp3"
+    filename "olivia ruiz\olivia ruiz - 13 - de toi à moi ii.mp3"
+  }
+  file
+  {
+    filenumber 221
+    fromfs 1
+    subdirindex 1
+    short "Olivia Ruiz - 14 - La Molinera.mp3"
+    filename "olivia ruiz\olivia ruiz - 14 - la molinera.mp3"
+  }
+  file
+  {
+    filenumber 222
+    fromfs 1
+    subdirindex 1
+    short "01.mp3"
+    filename "pierrick lilliu - besoin d'espace\01. besoin d'espace.mp3"
+  }
+  file
+  {
+    filenumber 223
+    fromfs 1
+    subdirindex 1
+    short "02.mp3"
+    filename "pierrick lilliu - besoin d'espace\02. héroÏne.mp3"
+  }
+  file
+  {
+    filenumber 224
+    fromfs 1
+    subdirindex 1
+    short "03.mp3"
+    filename "pierrick lilliu - besoin d'espace\03. a coeurt ouvert.mp3"
+  }
+  file
+  {
+    filenumber 225
+    fromfs 1
+    subdirindex 1
+    short "04.mp3"
+    filename "pierrick lilliu - besoin d'espace\04. des larmes.mp3"
+  }
+  file
+  {
+    filenumber 226
+    fromfs 1
+    subdirindex 1
+    short "05.mp3"
+    filename "pierrick lilliu - besoin d'espace\05. s'arrêter là.mp3"
+  }
+  file
+  {
+    filenumber 227
+    fromfs 1
+    subdirindex 1
+    short "06.mp3"
+    filename "pierrick lilliu - besoin d'espace\06. la même erreur.mp3"
+  }
+  file
+  {
+    filenumber 228
+    fromfs 1
+    subdirindex 1
+    short "07.mp3"
+    filename "pierrick lilliu - besoin d'espace\07. ecoute moi.mp3"
+  }
+  file
+  {
+    filenumber 229
+    fromfs 1
+    subdirindex 1
+    short "08.mp3"
+    filename "pierrick lilliu - besoin d'espace\08. bretagne dédicace.mp3"
+  }
+  file
+  {
+    filenumber 230
+    fromfs 1
+    subdirindex 1
+    short "09.mp3"
+    filename "pierrick lilliu - besoin d'espace\09. comme un frère.mp3"
+  }
+  file
+  {
+    filenumber 231
+    fromfs 1
+    subdirindex 1
+    short "10.mp3"
+    filename "pierrick lilliu - besoin d'espace\10. je savais.mp3"
+  }
+  file
+  {
+    filenumber 232
+    fromfs 1
+    subdirindex 1
+    short "11.mp3"
+    filename "pierrick lilliu - besoin d'espace\11. là haut.mp3"
+  }
+  file
+  {
+    filenumber 233
+    fromfs 1
+    subdirindex 1
+    short " - A - THE DRILL - The Drill (Caesar's Scissors edit)(1).mp3"
+    filename "varietes\ - a - the drill - the drill (caesar's scissors edit)(1).mp3"
+  }
+  file
+  {
+    filenumber 234
+    fromfs 1
+    subdirindex 1
+    short " Tom Snare - Philosophy.mp3"
+    filename "varietes\ tom snare - philosophy.mp3"
+  }
+  file
+  {
+    filenumber 235
+    fromfs 1
+    subdirindex 1
+    short "09 - What's Love (with Ja Rule).mp3"
+    filename "varietes\09 - what's love (with ja rule).mp3"
+  }
+  file
+  {
+    filenumber 236
+    fromfs 1
+    subdirindex 1
+    short "Ace of Base 1.mp3"
+    filename "varietes\ace of base 1.mp3"
+  }
+  file
+  {
+    filenumber 237
+    fromfs 1
+    subdirindex 1
+    short "Ace of Base 2.mp3"
+    filename "varietes\ace of base 2.mp3"
+  }
+  file
+  {
+    filenumber 238
+    fromfs 1
+    subdirindex 1
+    short "Alizée - Gourmandises - 09 - Gourmandises.mp3"
+    filename "varietes\alizée - gourmandises - 09 - gourmandises.mp3"
+  }
+  file
+  {
+    filenumber 239
+    fromfs 1
+    subdirindex 1
+    short "BackStreet Boys - Larger than life.mp3"
+    filename "varietes\backstreet boys - larger than life.mp3"
+  }
+  file
+  {
+    filenumber 240
+    fromfs 1
+    subdirindex 1
+    short "Billy Idol-White Wedding.mp3"
+    filename "varietes\billy idol-white wedding.mp3"
+  }
+  file
+  {
+    filenumber 241
+    fromfs 1
+    subdirindex 1
+    short "c-New-Pop-Depeche_Mode-Policy_of_Truth(Beat_Box_mix).mp3"
+    filename "varietes\c-new-pop-depeche_mode-policy_of_truth(beat_box_mix).mp3"
+  }
+  file
+  {
+    filenumber 242
+    fromfs 1
+    subdirindex 1
+    short "Camouflage - The great commandment.mp3"
+    filename "varietes\camouflage - the great commandment.mp3"
+  }
+  file
+  {
+    filenumber 243
+    fromfs 1
+    subdirindex 1
+    short "Celine Dion - That is the way it is.mp3"
+    filename "varietes\celine dion - that is the way it is.mp3"
+  }
+  file
+  {
+    filenumber 244
+    fromfs 1
+    subdirindex 1
+    short "Come Along - Tityo.mp3"
+    filename "varietes\come along - tityo.mp3"
+  }
+  file
+  {
+    filenumber 245
+    fromfs 1
+    subdirindex 1
+    short "Coolio - Gansta Paradise.mp3"
+    filename "varietes\coolio - gansta paradise.mp3"
+  }
+  file
+  {
+    filenumber 246
+    fromfs 1
+    subdirindex 1
+    short "DADDY DJ - DADDY DJ.mp3"
+    filename "varietes\daddy dj - daddy dj.mp3"
+  }
+  file
+  {
+    filenumber 247
+    fromfs 1
+    subdirindex 1
+    short "Depeche Mode - Enjoy the Silence (mtv).mp3"
+    filename "varietes\depeche mode - enjoy the silence (mtv).mp3"
+  }
+  file
+  {
+    filenumber 248
+    fromfs 1
+    subdirindex 1
+    short "Destinys Child - Say my name.mp3"
+    filename "varietes\destinys child - say my name.mp3"
+  }
+  file
+  {
+    filenumber 249
+    fromfs 1
+    subdirindex 1
+    short "Eiffel 65 - Move your body2.mp3"
+    filename "varietes\eiffel 65 - move your body2.mp3"
+  }
+  file
+  {
+    filenumber 250
+    fromfs 1
+    subdirindex 1
+    short "Eiffel 65 - Silicon Girl.mp3"
+    filename "varietes\eiffel 65 - silicon girl.mp3"
+  }
+  file
+  {
+    filenumber 251
+    fromfs 1
+    subdirindex 1
+    short "Eminem - Stan .mp3"
+    filename "varietes\eminem - stan .mp3"
+  }
+  file
+  {
+    filenumber 252
+    fromfs 1
+    subdirindex 1
+    short "Emma Bunton- What Took Yo.mp3"
+    filename "varietes\emma bunton- what took yo.mp3"
+  }
+  file
+  {
+    filenumber 253
+    fromfs 1
+    subdirindex 1
+    short "EverLast - What it s like.mp3"
+    filename "varietes\everlast - what it s like.mp3"
+  }
+  file
+  {
+    filenumber 254
+    fromfs 1
+    subdirindex 1
+    short "Fat Joe - Whats Love feat.mp3"
+    filename "varietes\fat joe - whats love feat. ja rule and ashanti (09).mp3"
+  }
+  file
+  {
+    filenumber 255
+    fromfs 1
+    subdirindex 1
+    short "Io.mp3"
+    filename "varietes\io.mp3"
+  }
+  file
+  {
+    filenumber 256
+    fromfs 1
+    subdirindex 1
+    short "Kim Lukas - All I really want radio mix.mp3"
+    filename "varietes\kim lukas - all i really want radio mix.mp3"
+  }
+  file
+  {
+    filenumber 257
+    fromfs 1
+    subdirindex 1
+    short "Meja - All about the money.mp3"
+    filename "varietes\meja - all about the money.mp3"
+  }
+  file
+  {
+    filenumber 258
+    fromfs 1
+    subdirindex 1
+    short "Melanie C - Never Be The Same Again.mp3"
+    filename "varietes\melanie c - never be the same again.mp3"
+  }
+  file
+  {
+    filenumber 259
+    fromfs 1
+    subdirindex 1
+    short "No Doubt new.mp3"
+    filename "varietes\no doubt new.mp3"
+  }
+  file
+  {
+    filenumber 260
+    fromfs 1
+    subdirindex 1
+    short "Nuttea - Trop peu de temps.mp3"
+    filename "varietes\nuttea - trop peu de temps.mp3"
+  }
+  file
+  {
+    filenumber 261
+    fromfs 1
+    subdirindex 1
+    short "Samantha Mamba - Gotta Tell You.mp3"
+    filename "varietes\samantha mamba - gotta tell you.mp3"
+  }
+  file
+  {
+    filenumber 262
+    fromfs 1
+    subdirindex 1
+    short "Shania Twain - Man! Feel like a woman.mp3"
+    filename "varietes\shania twain - man! feel like a woman.mp3"
+  }
+  file
+  {
+    filenumber 263
+    fromfs 1
+    subdirindex 1
+    short "Shania Twain - That Dont Impress.mp3"
+    filename "varietes\shania twain - that dont impress.mp3"
+  }
+  file
+  {
+    filenumber 264
+    fromfs 1
+    subdirindex 1
+    short "Superfunk - Lucky star.mp3"
+    filename "varietes\superfunk - lucky star.mp3"
+  }
+  file
+  {
+    filenumber 265
+    fromfs 1
+    subdirindex 1
+    short "Superfunk - Supamix.mp3"
+    filename "varietes\superfunk - supamix.mp3"
+  }
+  file
+  {
+    filenumber 266
+    fromfs 1
+    subdirindex 1
+    short "Supermode - Tell me why.mp3"
+    filename "varietes\supermode - tell me why.mp3"
+  }
+  file
+  {
+    filenumber 267
+    fromfs 1
+    subdirindex 1
+    short "The Cardigans - My Favorite Game.mp3"
+    filename "varietes\the cardigans - my favorite game.mp3"
+  }
+  file
+  {
+    filenumber 268
+    fromfs 1
+    subdirindex 1
+    short "Tom Snare - Phylosophy (Radio Edit Rmx).mp3"
+    filename "varietes\tom snare - phylosophy (radio edit rmx).mp3"
+  }
+  file
+  {
+    filenumber 269
+    fromfs 1
+    subdirindex 1
+    short "Triim - Pop The Music.mp3"
+    filename "varietes\triim - pop the music.mp3"
+  }
+  file
+  {
+    filenumber 270
+    fromfs 1
+    subdirindex 2
+    short "citadel_hub_ambience1.mp3"
+    filename "ambient\levels\citadel\citadel_hub_ambience1.mp3"
+  }
+  file
+  {
+    filenumber 271
+    fromfs 1
+    subdirindex 2
+    short "HL1_stinger_song16.mp3"
+    filename "music\stingers\hl1_stinger_song16.mp3"
+  }
+  file
+  {
+    filenumber 272
+    fromfs 1
+    subdirindex 2
+    short "HL1_stinger_song27.mp3"
+    filename "music\stingers\hl1_stinger_song27.mp3"
+  }
+  file
+  {
+    filenumber 273
+    fromfs 1
+    subdirindex 2
+    short "HL1_stinger_song28.mp3"
+    filename "music\stingers\hl1_stinger_song28.mp3"
+  }
+  file
+  {
+    filenumber 274
+    fromfs 1
+    subdirindex 2
+    short "HL1_stinger_song7.mp3"
+    filename "music\stingers\hl1_stinger_song7.mp3"
+  }
+  file
+  {
+    filenumber 275
+    fromfs 1
+    subdirindex 2
+    short "HL1_stinger_song8.mp3"
+    filename "music\stingers\hl1_stinger_song8.mp3"
+  }
+  file
+  {
+    filenumber 276
+    fromfs 1
+    subdirindex 2
+    short "HL1_song10.mp3"
+    filename "music\hl1_song10.mp3"
+  }
+  file
+  {
+    filenumber 277
+    fromfs 1
+    subdirindex 2
+    short "HL1_song11.mp3"
+    filename "music\hl1_song11.mp3"
+  }
+  file
+  {
+    filenumber 278
+    fromfs 1
+    subdirindex 2
+    short "HL1_song14.mp3"
+    filename "music\hl1_song14.mp3"
+  }
+  file
+  {
+    filenumber 279
+    fromfs 1
+    subdirindex 2
+    short "HL1_song15.mp3"
+    filename "music\hl1_song15.mp3"
+  }
+  file
+  {
+    filenumber 280
+    fromfs 1
+    subdirindex 2
+    short "HL1_song17.mp3"
+    filename "music\hl1_song17.mp3"
+  }
+  file
+  {
+    filenumber 281
+    fromfs 1
+    subdirindex 2
+    short "HL1_song19.mp3"
+    filename "music\hl1_song19.mp3"
+  }
+  file
+  {
+    filenumber 282
+    fromfs 1
+    subdirindex 2
+    short "HL1_song20.mp3"
+    filename "music\hl1_song20.mp3"
+  }
+  file
+  {
+    filenumber 283
+    fromfs 1
+    subdirindex 2
+    short "HL1_song21.mp3"
+    filename "music\hl1_song21.mp3"
+  }
+  file
+  {
+    filenumber 284
+    fromfs 1
+    subdirindex 2
+    short "HL1_song24.mp3"
+    filename "music\hl1_song24.mp3"
+  }
+  file
+  {
+    filenumber 285
+    fromfs 1
+    subdirindex 2
+    short "HL1_song25_REMIX3.mp3"
+    filename "music\hl1_song25_remix3.mp3"
+  }
+  file
+  {
+    filenumber 286
+    fromfs 1
+    subdirindex 2
+    short "HL1_song26.mp3"
+    filename "music\hl1_song26.mp3"
+  }
+  file
+  {
+    filenumber 287
+    fromfs 1
+    subdirindex 2
+    short "HL1_song3.mp3"
+    filename "music\hl1_song3.mp3"
+  }
+  file
+  {
+    filenumber 288
+    fromfs 1
+    subdirindex 2
+    short "HL1_song5.mp3"
+    filename "music\hl1_song5.mp3"
+  }
+  file
+  {
+    filenumber 289
+    fromfs 1
+    subdirindex 2
+    short "HL1_song6.mp3"
+    filename "music\hl1_song6.mp3"
+  }
+  file
+  {
+    filenumber 290
+    fromfs 1
+    subdirindex 2
+    short "HL1_song9.mp3"
+    filename "music\hl1_song9.mp3"
+  }
+  file
+  {
+    filenumber 291
+    fromfs 1
+    subdirindex 2
+    short "HL2_intro.mp3"
+    filename "music\hl2_intro.mp3"
+  }
+  file
+  {
+    filenumber 292
+    fromfs 1
+    subdirindex 2
+    short "HL2_song0.mp3"
+    filename "music\hl2_song0.mp3"
+  }
+  file
+  {
+    filenumber 293
+    fromfs 1
+    subdirindex 2
+    short "HL2_song1.mp3"
+    filename "music\hl2_song1.mp3"
+  }
+  file
+  {
+    filenumber 294
+    fromfs 1
+    subdirindex 2
+    short "HL2_song10.mp3"
+    filename "music\hl2_song10.mp3"
+  }
+  file
+  {
+    filenumber 295
+    fromfs 1
+    subdirindex 2
+    short "HL2_song11.mp3"
+    filename "music\hl2_song11.mp3"
+  }
+  file
+  {
+    filenumber 296
+    fromfs 1
+    subdirindex 2
+    short "HL2_song12_long.mp3"
+    filename "music\hl2_song12_long.mp3"
+  }
+  file
+  {
+    filenumber 297
+    fromfs 1
+    subdirindex 2
+    short "HL2_song13.mp3"
+    filename "music\hl2_song13.mp3"
+  }
+  file
+  {
+    filenumber 298
+    fromfs 1
+    subdirindex 2
+    short "HL2_song14.mp3"
+    filename "music\hl2_song14.mp3"
+  }
+  file
+  {
+    filenumber 299
+    fromfs 1
+    subdirindex 2
+    short "HL2_song15.mp3"
+    filename "music\hl2_song15.mp3"
+  }
+  file
+  {
+    filenumber 300
+    fromfs 1
+    subdirindex 2
+    short "HL2_song16.mp3"
+    filename "music\hl2_song16.mp3"
+  }
+  file
+  {
+    filenumber 301
+    fromfs 1
+    subdirindex 2
+    short "HL2_song17.mp3"
+    filename "music\hl2_song17.mp3"
+  }
+  file
+  {
+    filenumber 302
+    fromfs 1
+    subdirindex 2
+    short "HL2_song19.mp3"
+    filename "music\hl2_song19.mp3"
+  }
+  file
+  {
+    filenumber 303
+    fromfs 1
+    subdirindex 2
+    short "HL2_song2.mp3"
+    filename "music\hl2_song2.mp3"
+  }
+  file
+  {
+    filenumber 304
+    fromfs 1
+    subdirindex 2
+    short "HL2_song20_submix0.mp3"
+    filename "music\hl2_song20_submix0.mp3"
+  }
+  file
+  {
+    filenumber 305
+    fromfs 1
+    subdirindex 2
+    short "HL2_song20_submix4.mp3"
+    filename "music\hl2_song20_submix4.mp3"
+  }
+  file
+  {
+    filenumber 306
+    fromfs 1
+    subdirindex 2
+    short "HL2_song23_SuitSong3.mp3"
+    filename "music\hl2_song23_suitsong3.mp3"
+  }
+  file
+  {
+    filenumber 307
+    fromfs 1
+    subdirindex 2
+    short "HL2_song25_Teleporter.mp3"
+    filename "music\hl2_song25_teleporter.mp3"
+  }
+  file
+  {
+    filenumber 308
+    fromfs 1
+    subdirindex 2
+    short "HL2_song26.mp3"
+    filename "music\hl2_song26.mp3"
+  }
+  file
+  {
+    filenumber 309
+    fromfs 1
+    subdirindex 2
+    short "HL2_song26_trainstation1.mp3"
+    filename "music\hl2_song26_trainstation1.mp3"
+  }
+  file
+  {
+    filenumber 310
+    fromfs 1
+    subdirindex 2
+    short "HL2_song27_trainstation2.mp3"
+    filename "music\hl2_song27_trainstation2.mp3"
+  }
+  file
+  {
+    filenumber 311
+    fromfs 1
+    subdirindex 2
+    short "HL2_song28.mp3"
+    filename "music\hl2_song28.mp3"
+  }
+  file
+  {
+    filenumber 312
+    fromfs 1
+    subdirindex 2
+    short "HL2_song29.mp3"
+    filename "music\hl2_song29.mp3"
+  }
+  file
+  {
+    filenumber 313
+    fromfs 1
+    subdirindex 2
+    short "HL2_song3.mp3"
+    filename "music\hl2_song3.mp3"
+  }
+  file
+  {
+    filenumber 314
+    fromfs 1
+    subdirindex 2
+    short "HL2_song30.mp3"
+    filename "music\hl2_song30.mp3"
+  }
+  file
+  {
+    filenumber 315
+    fromfs 1
+    subdirindex 2
+    short "HL2_song31.mp3"
+    filename "music\hl2_song31.mp3"
+  }
+  file
+  {
+    filenumber 316
+    fromfs 1
+    subdirindex 2
+    short "HL2_song32.mp3"
+    filename "music\hl2_song32.mp3"
+  }
+  file
+  {
+    filenumber 317
+    fromfs 1
+    subdirindex 2
+    short "HL2_song33.mp3"
+    filename "music\hl2_song33.mp3"
+  }
+  file
+  {
+    filenumber 318
+    fromfs 1
+    subdirindex 2
+    short "HL2_song4.mp3"
+    filename "music\hl2_song4.mp3"
+  }
+  file
+  {
+    filenumber 319
+    fromfs 1
+    subdirindex 2
+    short "HL2_song6.mp3"
+    filename "music\hl2_song6.mp3"
+  }
+  file
+  {
+    filenumber 320
+    fromfs 1
+    subdirindex 2
+    short "HL2_song7.mp3"
+    filename "music\hl2_song7.mp3"
+  }
+  file
+  {
+    filenumber 321
+    fromfs 1
+    subdirindex 2
+    short "HL2_song8.mp3"
+    filename "music\hl2_song8.mp3"
+  }
+  file
+  {
+    filenumber 322
+    fromfs 1
+    subdirindex 2
+    short "radio1.mp3"
+    filename "music\radio1.mp3"
+  }
+  file
+  {
+    filenumber 323
+    fromfs 1
+    subdirindex 2
+    short "Ravenholm_1.mp3"
+    filename "music\ravenholm_1.mp3"
+  }
+}
+directories
+{
+  directory
+  {
+    gamesounds 0
+    name "c:\Documents and Settings\Administrator\My Documents\Herve\Perso\mp3\Pierrick Lilliu - Besoin D'espace"
+    dirname "c:\Documents and Settings\Administrator\My Documents\Herve\Perso\mp3\Pierrick Lilliu - Besoin D'espace"
+    fullpath "c:\Documents and Settings\Administrator\My Documents\Herve\Perso\mp3\Pierrick Lilliu - Besoin D'espace"
+    files
+    {
+      file 0
+      file 1
+      file 2
+      file 3
+      file 4
+      file 5
+      file 6
+      file 7
+      file 8
+      file 9
+      file 10
+    }
+  }
+  directory
+  {
+    gamesounds 0
+    name "c:\Documents and Settings\Administrator\My Documents\Herve\Perso\mp3"
+    dirname "c:\Documents and Settings\Administrator\My Documents\Herve\Perso\mp3"
+    fullpath "c:\Documents and Settings\Administrator\My Documents\Herve\Perso\mp3"
+    files
+    {
+      file 0
+      file 1
+      file 2
+      file 3
+      file 4
+      file 5
+      file 6
+      file 7
+      file 8
+      file 9
+      file 10
+      file 37
+      file 11
+      file 12
+      file 13
+      file 14
+      file 15
+      file 16
+      file 17
+      file 18
+      file 19
+      file 20
+      file 21
+      file 22
+      file 23
+      file 24
+      file 25
+      file 26
+      file 27
+      file 28
+      file 29
+      file 30
+      file 31
+      file 32
+      file 33
+      file 34
+      file 35
+      file 36
+      file 38
+      file 39
+      file 40
+      file 41
+      file 42
+      file 43
+      file 44
+      file 45
+      file 46
+      file 47
+      file 48
+      file 49
+      file 50
+      file 51
+      file 52
+      file 53
+      file 54
+      file 55
+      file 56
+      file 57
+      file 58
+      file 59
+      file 60
+      file 61
+      file 62
+      file 63
+      file 64
+      file 65
+      file 66
+      file 67
+      file 68
+      file 69
+      file 70
+      file 71
+      file 72
+      file 73
+      file 74
+      file 75
+      file 76
+      file 77
+      file 78
+      file 79
+      file 80
+      file 81
+      file 82
+      file 83
+      file 84
+      file 85
+      file 86
+      file 87
+      file 88
+      file 89
+      file 90
+      file 91
+      file 92
+      file 93
+      file 94
+      file 95
+      file 96
+      file 97
+      file 98
+      file 99
+      file 100
+      file 101
+      file 102
+      file 103
+      file 104
+      file 105
+      file 106
+      file 107
+      file 108
+      file 109
+      file 110
+      file 111
+      file 112
+      file 113
+      file 114
+      file 115
+      file 116
+      file 117
+      file 118
+      file 119
+      file 120
+      file 121
+      file 122
+      file 123
+      file 124
+      file 125
+      file 126
+      file 127
+      file 128
+      file 129
+      file 130
+      file 131
+      file 132
+      file 133
+      file 134
+      file 135
+      file 136
+      file 137
+      file 138
+      file 139
+      file 140
+      file 141
+      file 142
+      file 143
+      file 144
+      file 145
+      file 146
+      file 147
+      file 148
+      file 149
+      file 150
+      file 151
+      file 152
+      file 153
+      file 154
+      file 155
+      file 156
+      file 157
+      file 158
+      file 159
+      file 160
+      file 161
+      file 162
+      file 163
+      file 164
+      file 165
+      file 166
+      file 167
+      file 168
+      file 169
+      file 170
+      file 171
+      file 172
+      file 173
+      file 174
+      file 175
+      file 176
+      file 177
+      file 178
+      file 179
+      file 180
+      file 181
+      file 182
+      file 183
+      file 184
+      file 185
+      file 186
+      file 187
+      file 188
+      file 189
+      file 190
+      file 191
+      file 192
+      file 193
+      file 194
+      file 195
+      file 196
+      file 197
+      file 198
+      file 199
+      file 200
+      file 201
+      file 202
+      file 203
+      file 204
+      file 205
+      file 206
+      file 207
+      file 208
+      file 209
+      file 210
+      file 211
+      file 212
+      file 213
+      file 214
+      file 215
+      file 216
+      file 217
+      file 218
+      file 219
+      file 220
+      file 221
+      file 222
+      file 223
+      file 224
+      file 225
+      file 226
+      file 227
+      file 228
+      file 229
+      file 230
+      file 231
+      file 232
+      file 233
+      file 234
+      file 235
+      file 236
+      file 237
+      file 238
+      file 239
+      file 240
+      file 241
+      file 242
+      file 243
+      file 244
+      file 245
+      file 246
+      file 247
+      file 248
+      file 249
+      file 250
+      file 251
+      file 252
+      file 253
+      file 254
+      file 255
+      file 256
+      file 257
+      file 258
+      file 259
+      file 260
+      file 261
+      file 262
+      file 263
+      file 264
+      file 265
+      file 266
+      file 267
+      file 268
+      file 269
+    }
+  }
+  directory
+  {
+    gamesounds 1
+    name ""
+    dirname "Game Sounds"
+    fullpath ""
+    files
+    {
+      file 270
+      file 276
+      file 277
+      file 278
+      file 279
+      file 280
+      file 281
+      file 282
+      file 283
+      file 284
+      file 285
+      file 286
+      file 287
+      file 288
+      file 289
+      file 290
+      file 291
+      file 292
+      file 293
+      file 294
+      file 295
+      file 296
+      file 297
+      file 298
+      file 299
+      file 300
+      file 301
+      file 302
+      file 303
+      file 304
+      file 305
+      file 306
+      file 307
+      file 308
+      file 309
+      file 310
+      file 311
+      file 312
+      file 313
+      file 314
+      file 315
+      file 316
+      file 317
+      file 318
+      file 319
+      file 320
+      file 321
+      file 322
+      file 323
+      file 271
+      file 272
+      file 273
+      file 274
+      file 275
+    }
+  }
+}
