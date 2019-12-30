@@ -1,5 +1,5 @@
 # Adrenaline Gamer 2  version 1.0.2
-
+```
 Installation
 ------------
 1. move the folder "ag2" into Steam/steamapps/sourcemods
@@ -664,3 +664,4 @@ Version HL2DMPro 1.0 : 16/06/2005
 . Added : in eye spectator mode
 . Added : chase spectator mode
 . Added : sign in case of headshot (for magnum and shotgun)
+```
