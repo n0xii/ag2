@@ -1,0 +1,83 @@
+// Gauss
+
+WeaponData
+{
+	// Weapon data is loaded by both the Game and Client DLLs.
+	"printname"		"#HL2DMPRO_TauCannon"
+	"viewmodel"		"models/weapons/v_gauss.mdl" 
+	"playermodel"		"models/weapons/w_gauss.mdl"
+	"centeredmodel"		"models/weapons/w_gauss.mdl"
+	"anim_prefix"		"gauss"
+	"bucket"		"0"
+	"bucket_position"	"3"	
+
+	"clip_size"		"-1"
+	"clip2_size"		"-1"
+	"default_clip"		"20"
+	"default_clip2"		"-1"
+
+	"pg_clip_size"		"-1"
+	"pg_clip2_size"		"-1"
+	"pg_default_clip"		"20"
+	"pg_default_clip2"		"-1"
+
+	"custom_clip_size"		"-1"
+	"custom_clip2_size"		"-1"
+	"custom_default_clip"		"20"
+	"custom_default_clip2"		"-1"
+
+	"primary_ammo"		"GaussEnergy"
+	"secondary_ammo"	"None"
+
+	"weight"		"7"
+	"item_flags"		"0"
+	"damage"		"10"
+
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
+	SoundData
+	{
+
+		"reload"		"Weapon_Pistol.Reload"
+		"reload_npc"		"Weapon_Pistol.NPC_Reload"
+		"empty"			"Weapon_Pistol.Empty"
+		"single_shot"		"Weapon_Gauss.Single"
+		"single_shot_npc"	"Weapon_Gauss.Single"
+		"double_shot"		"Weapon_Gauss.Double"
+		"double_shot_npc"	"Weapon_Gauss.Double"
+		"special1"		"Weapon_Gauss.Special1"
+		"special2"		"Weapon_Gauss.ChargeLoop"
+	}
+
+	// Weapon Sprite data is loaded by the Client DLL.
+	TextureData
+	{
+		"weapon"
+		{
+				"font"		"WeaponIcons"
+				"character"	"h"
+		}
+		"weapon_s"
+		{	
+				"font"		"WeaponIconsSelected"
+				"character"	"h"
+		}
+		"ammo"
+		{
+				"font"		"WeaponIcons"
+				"character"	"y"
+		}
+		"crosshair"
+		{
+				"font"		"Crosshairs"
+				"character"	"Q"
+		}
+		"autoaim"
+		{
+				"file"		"sprites/crosshairs"
+				"x"		"0"
+				"y"		"48"
+				"width"		"24"
+				"height"	"24"
+		}
+	}
+}

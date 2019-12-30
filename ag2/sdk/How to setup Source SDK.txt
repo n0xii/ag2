@@ -1,0 +1,62 @@
+#$Rev$
+
+To setup Source SDK with Adrenaline Gamer 2 automatically
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+An automatic configuration tool is available at:
+
+http://ag2.hl2dm.org.uk/sdksetup/
+
+
+To setup Source SDK with Adrenaline Gamer 2 manually
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) Make sure Source SDK is not running.
+
+2) Locate the file GameConfig.txt in your \sourcesdk\bin\orangebox\bin\ folder
+
+3) !IMPORTANT! Take a backup of the above file in case of mistakes.
+
+4) Copy the text below the line and replace [YOUR STEAM DIRECTORY] with the full path to steam and [YOUR STEAM USERNAME] with your steam username. 
+Tip: you can use search and replace in your text editor
+
+5) Paste the amended text into your GameConfig.txt as a new game. 
+Tip: in a default gameconfig.txt it should go just before this at the end of the file:
+
+	}
+	"SDKVersion"		"3"
+}
+
+6) Create the folder for storing your ag2 maps in \sourcesdk_content\ag2\mapsrc\
+
+7) Start Source SDK, if everything has gone OK you should now be able to choose Engine Version: The Orange Box / Current Game: Adrenaline Gamer 2
+
+8) Happy mapping!
+
+--------------------------------------------------------------------------------
+
+
+		"Adrenaline Gamer 2"
+		{
+			"GameDir"		"[YOUR STEAM DIRECTORY]\steamapps\SourceMods\ag2"
+			"hammer"
+			{
+				"GameData0"		"[YOUR STEAM DIRECTORY]\steamapps\SourceMods\ag2\sdk\ag2.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"[YOUR STEAM DIRECTORY]\steamapps\[YOUR STEAM USERNAME]\source sdk base 2007\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_deathmatch"
+				"BSP"		"[YOUR STEAM DIRECTORY]\steamapps\[YOUR STEAM USERNAME]\sourcesdk\bin\orangebox\bin\vbsp.exe"
+				"Vis"		"[YOUR STEAM DIRECTORY]\steamapps\[YOUR STEAM USERNAME]\sourcesdk\bin\orangebox\bin\vvis.exe"
+				"Light"		"[YOUR STEAM DIRECTORY]\steamapps\[YOUR STEAM USERNAME]\sourcesdk\bin\orangebox\bin\vrad.exe"
+				"GameExeDir"		"[YOUR STEAM DIRECTORY]\steamapps\[YOUR STEAM USERNAME]\source sdk base 2007"
+				"MapDir"		"[YOUR STEAM DIRECTORY]\steamapps\[YOUR STEAM USERNAME]\sourcesdk_content\ag2\mapsrc"
+				"BSPDir"		"[YOUR STEAM DIRECTORY]\steamapps\SourceMods\ag2\maps"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"0"
+			}
+		}
+		

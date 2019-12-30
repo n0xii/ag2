@@ -1,0 +1,177 @@
+//--------------------------------------------------------------------------------------------------
+//
+// Game data for Adrenaline Gamer 2
+//
+// $Rev: 10 $
+//
+//--------------------------------------------------------------------------------------------------
+
+// include hl2mp fgd first, this will also include halflife2.fgd
+// !! this is done so that the ag2 fgd content is always used last and overrides any content in the base fgd
+@include "hl2mp.fgd"
+
+//--------------------------------------------------------------------------------------------------
+//
+// Gameplay Entities
+//
+//--------------------------------------------------------------------------------------------------
+
+// ctf_combine_flag - blue flag for ctf modes
+
+@PointClass base(prop_physics) studioprop("models/items/w_flag_blue.mdl") sphere(fademindist) sphere(fademaxdist) = ctf_combine_flag :
+	"Flag of team Combine"
+[
+]
+
+// ctf_combine_base - blue flag base for ctf / football modes
+
+@PointClass base(prop_physics) studioprop("models/items/w_pgbluesocle.mdl") sphere(fademindist) sphere(fademaxdist) = ctf_combine_base :
+	"Base where the combine's flag must be put"
+[
+]
+
+// ctf_rebel_flag - red flag for ctf modes
+
+@PointClass base(prop_physics) studioprop("models/items/w_flag_red.mdl") sphere(fademindist) sphere(fademaxdist) = ctf_rebel_flag :
+	"Flag of team Rebels"
+[
+]
+
+// ctf_rebel_base - red flag base for ctf / football modes
+
+@PointClass base(prop_physics) studioprop("models/items/w_pgredsocle.mdl") sphere(fademindist) sphere(fademaxdist) = ctf_rebel_base :
+	"Base where the rebel's flag must be put"
+[
+]
+
+// ctf_one_flag - orange flag for domination mode
+
+@PointClass base(prop_physics) studioprop("models/items/w_pgneutralflag.mdl") sphere(fademindist) sphere(fademaxdist) = ctf_one_flag :
+	"Flag used in mod Domination"
+[
+]
+
+// ctf_one_base - orange flag base for domination mode
+
+@PointClass base(prop_physics) studioprop("models/items/w_pgneutralsocle.mdl") sphere(fademindist) sphere(fademaxdist) = ctf_one_base :
+	"Base where the Domination's flag must be put"
+[
+]
+
+// pg_prop_ball - football for forball mode
+
+@PointClass base(prop_physics) studioprop("models/items/w_pgfootball.mdl") sphere(fademindist) sphere(fademaxdist) = pg_prop_ball :
+	"Ball used in mod Football"
+[
+]
+
+// pg_prop_warball - warball for warball mode
+
+@PointClass base(prop_physics) studioprop("models/pg_warball.mdl") sphere(fademindist) sphere(fademaxdist) = pg_prop_warball :
+	"Ball used in mod Warball"
+[
+]
+
+//--------------------------------------------------------------------------------------------------
+//
+// Weapons and Items
+//
+//--------------------------------------------------------------------------------------------------
+
+// w_slam - slam weapon
+// !! added here to fix hl2mp.fgd model errors, must have slam model resources extracted to ag2 folder
+
+@PointClass base(Weapon) studio("models/weapons/w_slam.mdl") = weapon_slam : "S.L.A.M. - Selectable Lightweight Attack Munition" []
+
+// weapon_egon - egon (gluon) weapon
+
+@PointClass base(Weapon) studio("models/weapons/w_egon.mdl") = weapon_egon : "Egon" []
+
+// weapon_gauss - gauss (tau) weapon
+
+@PointClass base(Weapon) studio("models/weapons/w_gauss.mdl") = weapon_gauss : "Tau Cannon" []
+
+// item_longjump - longjump item
+
+@PointClass base(Item) studio("models/w_longjump.mdl") = item_longjump : "Long Jump Pack" []
+
+// item_ammo_gaussenergy - gauss and egon ammo item
+
+@PointClass base(Item) studio("models/items/w_gaussammo.mdl") = item_ammo_gaussenergy : "Gauss / Egon Energy Pack" []
+
+// item_ammo_ar2 & item_ammo_ar2_large - ar2 ammo item
+// !! added here to fix halflife2.fgd and hl2mp.fgd model errors
+
+@PointClass base(Item) studio("models/items/combine_rifle_cartridge01.mdl")= item_ammo_ar2 : "Box of AR2 ammo" []
+@PointClass base(Item) studio("models/items/combine_rifle_cartridge01.mdl")= item_ammo_ar2_large : "Large Box of AR2 ammo" []
+
+//--------------------------------------------------------------------------------------------------
+//
+// Solid Classes
+//
+//--------------------------------------------------------------------------------------------------
+
+// func_ladder - ag2 "sticky" ladder volume
+
+@SolidClass = func_ladder : 
+	"Ladder. Players will be able to walk freely along this brush, as if it was a ladder. If you are using a model prop " +
+	"for the visual representation of the ladder in the map, apply the toolsinvisibleladder material to the " +
+	"func_ladder brush."
+[
+]
+
+// trigger_push - push trigger volume
+// !! added here to override base.fgd default spawnflags (add flag 1 by default)
+
+@SolidClass base(Trigger) = trigger_push : 
+	"A trigger volume that pushes entities that touch it. trigger_pushinstant is usually a better choice"
+[
+	pushdir(angle) : "Push Direction (Pitch Yaw Roll)" : "0 0 0" : "Angles indicating the direction to push touched entities."
+
+	spawnflags(flags) = 
+	[
+		1: "Clients" : 1
+		2: "NPCs" : 0
+		4: "Pushables": 0
+		8: "Physics Objects" : 0
+		16: "Only player ally NPCs" : 0
+		32: "Only clients in vehicles" : 0
+		64: "Everything (not including physics debris)" : 0
+		128: "Once Only" : 0
+		256: "Affects Ladders (Half-Life 2)" : 0 
+		512: "Only clients *not* in vehicles" : 0
+		1024: "Physics debris" : 0
+		2048: "Only NPCs in vehicles (respects player ally flag)" : 0
+	]
+
+	speed(integer) : "Speed of Push" : 40 : "The speed at which to push entities away, in inches / second."
+	alternateticksfix(float) : "Scale force for alternate ticks" : "0" : "If nonzero, scale the force by this amount when running with alternate ticks. This fixes problems with an overly large force due to the longer frametime on when running with sv_alternateticks 1."
+]
+
+// trigger_pushinstant - instant push trigger volume
+
+@SolidClass base(Trigger) = trigger_pushinstant : 
+	"A trigger volume that instantly pushes entities that touch it."
+[
+	pushdir(angle) : "Push Direction (Pitch Yaw Roll)" : "0 0 0" : "Angles indicating the direction to push touched entities."
+
+	spawnflags(flags) = 
+	[ 
+		1: "Clients" : 1
+		2: "NPCs" : 0
+		4: "Pushables": 0
+		8: "Physics Objects" : 0
+		16: "Only player ally NPCs" : 0
+		32: "Only clients in vehicles" : 0
+		64: "Everything (not including physics debris)" : 0
+		128: "Once Only" : 0
+		256: "Affects Ladders (Half-Life 2)" : 0 
+		512: "Only clients *not* in vehicles" : 0
+		1024: "Physics debris" : 0
+		2048: "Only NPCs in vehicles (respects player ally flag)" : 0
+	]
+
+	speed(integer) : "Speed of Push" : 40 : "The speed at which to push entities away, in inches / second."
+	alternateticksfix(float) : "Scale force for alternate ticks" : "0" : "If nonzero, scale the force by this amount when running with alternate ticks. This fixes problems with an overly large force due to the longer frametime on when running with sv_alternateticks 1."
+]
+

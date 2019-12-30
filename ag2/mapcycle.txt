@@ -1,0 +1,17 @@
+pg_datacore
+pg_boot_camp
+pg_sacred
+pg_winterchill
+pg_campgrounds
+pg_fragging_yard
+pg_stalkyard
+pg_deck17
+pg_the_longest_day
+pg_bloodrun
+pg_lostvillage
+pg_roman_sanctuary
+pg_lostarena
+pg_stalkx
+pg_crossfire_final
+pg_icepick
+pg_lockdown
