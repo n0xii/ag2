@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "pg2mdl/Combine_Soldier/combinesoldiersheet_prisonguard"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapmask" "Models/Combine_soldier/combinesoldiersheet_mask"
+	"$selfillum" 1
+}
+
+
+

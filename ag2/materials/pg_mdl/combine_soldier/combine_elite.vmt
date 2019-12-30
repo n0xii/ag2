@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"pg_mdl/Combine_Soldier/combine_elite"
+	"$envmap" "env_cubemap"	
+	"$bumpmap" "models/combine_soldier/combine_elite_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$model" 1
+	"$selfillum" 1
+}
+
+
+
