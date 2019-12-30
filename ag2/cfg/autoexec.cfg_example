@@ -1,0 +1,62 @@
+// Server Admin Autoexec.cfg CVARs
+exec banned_ip.cfg
+writeip
+log on // To create log files
+logaddress_add 217.172.187.143:27500 // @IP of the hl2dmpro.com hlstats server. Post a message in the following thread in order we add your server to the hlstats servers list : http://www.hl2dmpro.com/forums/viewtopic.php?t=61
+sv_secure 1
+pg_sv_ffa 1 // 1 to enable it, 0 to disable it
+pg_sv_tdm 1 // 1 to enable it, 0 to disable it
+pg_sv_arena 1 // 1 to enable it, 0 to disable it
+pg_sv_instagib 1 // 1 to enable it, 0 to disable it
+pg_sv_arcade 1 // 1 to enable it, 0 to disable it
+pg_sv_lts 1 // 1 to enable it, 0 to disable it
+pg_sv_ctf 1 // 1 to enable it, 0 to disable it
+pg_sv_ctfarcade 1 // 1 to enable it, 0 to disable it
+pg_sv_domination 1 // 1 to enable it, 0 to disable it
+pg_sv_football 1 // 1 to enable it, 0 to disable it
+pg_sv_warball 1 // 1 to enable it, 0 to disable it
+pg_sv_start 1 // 1 to enable match, 0 to disable match
+pg_sv_gameplay Votable // Votable, Original, Pro, customfilename. Note that pg_sv_valvebasis is withdraw
+pg_sv_friendlyfire 0 // 2 to enable vote on this option, 1 to force it ON, 0 to force it OFF
+pg_sv_weaponstay 0 // 2 to enable vote on this option, 1 to force it ON, 0 to force it OFF
+pg_sv_forcerespawn 2 // 2 to enable vote on this option, 1 to force it ON, 0 to force it OFF
+pg_sv_wallgauss 1 // 2 to enable vote on this option, 1 to force it ON, 0 to force it OFF
+pg_sv_timelimitmin 10 // minimum timelimit per map
+pg_sv_timelimitmax 60 // maximum timelimit per map
+pg_sv_reg_hitsound 1 // 1 to enable hitsound 
+pg_sv_reg_materialstepsound 1 // 1 to enable hitsound 
+pg_sv_reg_hitsound_admin 2 // 2 to enable vote on this option, 1 to force it ON, 0 to force it OFF
+pg_sv_reg_itemthroughwallexploit_admin 2 // 2 to enable vote on this option, 1 to force it ON, 0 to force it OFF
+pg_sv_tdm_teams "GOYBRP" // Authorized teams in Team Deathmatch mod for Promod
+pg_sv_lts_teams "GO" // Authorized teams in Last Team Standing mod for Promod
+pg_sv_domination_teams ""YP"" // Authorized teams in Domination mod for Promod
+
+/////////////////////////////////////////////////////////////////
+
+// Client Autoexec.cfg CVARs
+pg_cl_showteamsscore 1 // Client side only: display the miniscore panel without having to hit the scoreboard key
+pg_cl_hitsound 1 // Client side only: a sound is played when the server registered a hit from you to an opponent
+pg_cl_autoscreen 0 // Client side only: screenshot is automatically taken at the end of the map
+r_drawviewmodel 1 // Client side and ProMod only: allows you to draw or not the viewmodel of your active weapon
+pg_cl_miniscore_team_x 10 // Client side only: x axis position of the onscreen score when in teamplay mod
+pg_cl_miniscore_team_y 100 // Client side only: y axis position of the onscreen score when in teamplay mod
+pg_cl_miniscore_noteam_x 17 // Client side only: x axis position of the onscreen score when not in teamplay mod
+pg_cl_miniscore_noteam_y 382 // Client side only: y axis position of the onscreen score when not in teamplay mod
+pg_cl_fov 90 // Client side only: default fov
+pg_r_3dsky 1 // Client side only: 1 to enable or not 3dsky 
+pg_cl_weapon_icon_x 525 // Client side only: x axis position of the onscreen weapon icon if weapon model is not drawn
+pg_cl_weapon_icon_y 370 // Client side only: y axis position of the onscreen weapon icon if weapon model is not drawn
+pg_cl_colorednames 1 // Client side only: set to "1" to see colored names, "0" to not see them colored
+pg_cl_coloredtext 1 // Client side only: set to "1" to see colored text, "0" to not see them colored
+pg_cl_coloredtargetid 1 // Client side only: set to "1" to see colored names in your target ID Hud, "0" to not see them colored
+pg_cl_coloreddeathnotice 1 // Client side only: set to "1" to see colored names in Death Notice Hud, "0" to not see them colored 
+pg_cl_crosshair_color 0 // Client side only: Color of crosshairs
+pg_cl_crosshair_bright 0 // Client side only: 1 to have crosshairs always bright
+pg_cl_crosshair_usefont 1 // Client side only: 1 if crosshairs based on Font
+pg_cl_crosshair_font "PG_Crosshairs_Medium" // Client side only: Font type used by crosshairs: PG_Crosshairs_Small, PG_Crosshairs_Medium or PG_Crosshairs_Large
+pg_cl_crosshair_font_char "A" // Client side only: Character representing the crosshair from A to I
+pg_cl_crosshair_sprite "crosshairs/Default" // Client side only: File of sprites used for crosshairs
+pg_cl_crosshair_bracket_color 0 // Client side only: Color index of brackets 
+
+
+
