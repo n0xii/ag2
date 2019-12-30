@@ -1,26 +1,4 @@
 # Adrenaline Gamer 2  version 1.0.2
-License Agreement
------------------
-IN NO EVENT WHATSOEVER SHALL THE Adrenaline Gamer 2 DEVELOPMENT TEAM  BE LIABLE FOR 
-ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DIRECT OR INDIRECT 
-DAMAGES, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF 
-INFORMATION) RESULTING FROM THE USE OR INABILITY TO USE THE PROGRAMS AND 
-FILES EVEN IF THE Adrenaline Gamer 2 DEVELOPMENT TEAM HAS BEEN ADVISED OF THE 
-POSSIBILITY OF SUCH DAMAGES. Without limiting the generality of the 
-foregoing, no warranty is made that the enclosed software will do anything 
-you want it to, or be error free. USING THIS SOFTWARE IMPLIES AGREEMENT TO 
-THESE TERMS.
-This version of Adrenaline Gamer 2 Mod is provided free of charge and may be freely 
-downloaded and redistributed under the condition that all files in the 
-original distribution remain in the distribution and that all redistribution 
-sites must inform (in the form of a hypertext link, etc.) users of the 
-original place of distribution. No person or group shall profit from the 
-redistribution of this software in any form without the consent of the 
-Adrenaline Gamer 2 development team.
-In other words, do not put this program onto a CD containing 
-shareware/freeware programs that will be sold without first consulting the 
-HL2DM Pro development team.
-
 
 Installation
 ------------
