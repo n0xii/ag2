@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\items\wp_sp_la"
+	"$model" "1"
+	"$translucent" "1"	
+	"$nocull" "1"
+}
