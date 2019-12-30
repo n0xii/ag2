@@ -1,0 +1,16 @@
+gb_stadium - "Gravity Ball"
+---
+
+Created by: StickFigs
+
+Blimp Model by: Prall
+
+Map Info:
+------------
+
+It's Combine versus Rebels, each team must try to get the ball into the opposing team's goal by using their crowbars and Gravity Guns. First to 10 points wins. Player's can use the ramped walls and jump pads to their advantage.
+
+BUGS:
+---
+
+Sometimes the map will not turn on mp_teamplay by it's self, if you spawn and are stuck in a black box and are not on combine or rebel team then type "mp_teamplay 1" in console and reload map.

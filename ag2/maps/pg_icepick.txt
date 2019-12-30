@@ -1,0 +1,22 @@
+====Pg_Icepick_beta1====
+
+Created By Duncan Moore: AKA FINGER
+
+More of my maps and artwork can be found at www.duncanmoore.org
+
+Please email me at duncan@duncanmoore.org
+
+------------------------------------------------------------
+
+This map was created for Hl2promod, using valves source materials and models.
+
+--------------------------------------------------
+This is Beta1 of my latest map Icepick, for Promod.  Please contact me with any errors, bugs, texture misalignments,
+gripes, complaints......or complements ;) regarding this map.  Any information is useful, as I polish this map for a 
+final release.  Thanks!
+--------------------------------------------------
+
+
+
+**This maps is my creation and if altered, may only be distributed with my express permission. This map may not
+   be used for any mod, or source,  outside of HL2DM and HL2Promod, without my consent**

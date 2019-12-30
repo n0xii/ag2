@@ -1,0 +1,148 @@
+Map name: pg_campgrounds (including duel version)
+Author: [m.x] (mx-86@yandex.ru)
+Description: Remake of greatest Q3 map - pro-q3dm6 for HL2DMPRO
+
+Original map by Tim Willits (ID Software)
+
+Custom sounds: No
+Custom models: No
+Custom textures: Yes
+
+Compile time: 11 minutes, 56 seconds
+Making period: 27/08/2005 - 25/02/2006
+Soft Used:
+ • Hammer Editor v4.1
+ • Adobe Photoshop v8.0 CS with VTF™ Plugin
+
+
+	Version history:
+
+Final:
+ • Added: another one Frag Grenade to Grenades Room
+ • Added: another one SMG1 Grenade to Upper Stairs
+ • Added: CLIP-Brush to Announcement board at Grenades Room
+ • Added: Explodable barrels to upper HEV and to Frag grenade Bridge
+ • Added: func_clip vphysics to many places including Windows above item_battery
+ • Added: HINT-Brushes to Jumppads
+ • Added: NODRAW-Texture to some surfaces
+ • Added: Red pipe to AR2 Room
+ • Changed: Announcement board at Grenades Room is func_wall now
+ • Changed: Remaked Balcony near Main Bridge (Corner was removed for better Gauss-jumping)
+ • Changed: ladder fence at Grenades Room is func_wall now
+ • Changed: moved up Lights_Florescent01a.mdl near LJ
+ • Changed: Remaked CLIP-Brushes and func_clip_vphysics-brushes above Frag Grenade Bridge
+ • Changed: S.L.A.M. on the Bridge above Gauss was replaced with Frag Grenade
+ • Changed: Vent holes at AR2 Room are func_detail now
+ • Fixed: "env_cubemap pointing at deleted brushside near"
+ • Fixed: Gauss disappears after 40-50 minutes...
+ • Fixed: Lockers at closed room near item_battery are prop_physics now
+ • Fixed: Looped rocks collision sound (by removing rocks :) )
+ • Fixed: pipecluster001a.mdl above Gauss is not solid now
+ • Fixed: players don't stucks at Crossbow platform anymore
+ • Fixed: Purple reflections in broken glass cells near .357 Room
+ • Fixed: Sinks at toilet has bad I/O Connections
+ • Fixed: spotlight base smoothgroups under Main Bridge
+ • Fixed: Floor texture alignment at upper HEV Platform
+ • Removed: 1 item_battery
+ • Removed: FFA/TDM version of map (1 Duel vers. instead of 2)
+ • Removed: S.L.A.M.s and Combine balls
+ • Removed: wooden board and glow sprite from window at lower stairs
+
+_________________________________________________________________________________________________________________________
+Release Candidate 1:
+ • Added: another one prison_conduit001a.mdl to .357 Room
+ • Added: broken tiles on main bridge and at B2 Block
+ • Added: broken window window above .357 Room
+ • Added: brown wires everywhere :)
+ • Added: chimney toppipe to central brown building
+ • Added: closed heavy door to collumns zone
+ • Added: 2 prop_physics (cinderblock01a.mdl) to center
+ • Added: closed door to room with briken floor above 2nd floor
+ • Added: custom decal to collumns zone
+ • Added: func_clip_vphysics to central closed tunnel
+ • Added: garbage256_composite002b.mdl to center
+ • Added: gas pipes to brick building
+ • Added: handrail above smg1 grenades platform
+ • Added: HINT-Brushes to hole above toilet
+ • Added: ivy decals to center
+ • Added: medium vent to low stairs
+ • Added: more black lines on the walls to collumns zone
+ • Added: nodraw-brushes to closed territory in S.L.A.M.'s Room and to closed tunnel in center
+ • Added: nodraw-brushes under upper stairs
+ • Added: nodraw-texture to many and many places
+ • Added: part of guard tower on the 2nd floor
+ • Added: pipes above gauss
+ • Added: powerboxes to AR2 Room and to Bridge
+ • Added: prison_conduit001a.mdl to lower stairs
+ • Added: prison_flourescentlight002b.mdl and light near bridge respawn
+ • Added: scaffolding above SuperHEV
+ • Added: small pipes near broken wall on the 2nd floor
+ • Added: some garbage to AR2 Room, S.L.A.M.s Room, to center and to 2nd floor
+ • Added: unusable ladder in the S.L.A.M. Room
+ • Added: window to room near 2 smg grenades
+ • Added: windows to B2 Block cells
+ • Changed: central vent replaced with square tubes like in original pro-q3dm6
+ • Changed: collumns zone textures
+ • Changed: floor above toilet
+ • Changed: floor texture above .357 Room
+ • Changed: jumppad holes
+ • Changed: changed floor texture on the main bridge
+ • Changed: item_ammo_357_large on the collumn near smg1 ammo is item_ammo_357 now
+ • Changed: moved up brick building part
+ • Changed: moved up white wires under S.L.A.M. bridge
+ • Changed: prison_cagedlight001a.mdl at SuperHEV stairs is not solid now
+ • Changed: upper walls in center
+ • Changed: moved up vent and ceiling in room with briken floor above 2nd floor
+ • Changed: remaked .357 Room
+ • Changed: texture alignment at lower stairs
+ • Changed: tile_wall001a_base.mdl replaced with simular hand-made brush for enable gauss penetration
+ • Changed: tweaked jump-pads (you'll need to jump by yourself to take effect)
+ • Fixed: bad brush coordinates above smg1 grenades platform
+ • Fixed: central grey vent is func_detail now
+ • Fixed: crossbow ammo fall-down in collumns zone
+ • Fixed: clip-brush near bridge
+ • Fixed: lamp at closed room near 2 smg grenades was prop_physics, now - prop_static
+ • Fixed: little leak in low stairs
+ • Fixed: players stuck near Handrail04_corner.mdl on S.L.A.M. bridge
+ • Fixed: some textures lightmap size
+ • Fixed: SuperHEV model coordinates
+ • Fixed: texture (Plasterwall034b) alignment above toilet
+ • Removed: ambient_generic-s
+ • Removed: black lines on the walls at B2 Block
+ • Removed: Ceiling_Arch001a.mdl near bridge respawn for better gauss-jumping
+ • Removed: Handrail04_SingleRise.mdl near toilet
+ • Removed: prison_conduit001a.mdl from collumns zone
+ • Removed: vent_cluster001.mdl from center
+
+_________________________________________________________________________________________________________________________
+Beta 2: 18.01.2006
+ • Added: 2nd Easter Egg :)
+ • Added: another one prison_sprinkler001a.mdl in AR2 Room
+ • Added: another one HINT-Brush to SuperHEV zone and to .357 Room
+ • Added: clip-brush on the vent in .357 Room
+ • Added: hand-maded collison brush to the briken tile wall between toilet and AR2 Room
+ • Added: little hole in toilet with clip-brush
+ • Added: more pipes in AR2 Room
+ • Added: nodraw texture under some stairs and in toilet
+ • Added: some decals in center
+ • Added: vents at lower stairs ceiling
+ • Added: black lines on the walls with PlayerClip-brushes in collumns zone like in original pro-q3dm6
+ • Added: wire system in S.L.A.M.'s room
+ • Changed: ceiling thickness on the 1st floor and under the HEV Platform from 16 to 8 units for better Gauss penetration
+ • Changed: moved up a vent in .357 Room
+ • Changed: remaked door to stairs from .357 room for better bunnyhopping
+ • Changed: the locked door at S.L.A.M.'s room moved to center for better leaf optimization
+ • Changed: wall-line texture at B2 Block
+ • Changed: walls in SuperHEV upstairs
+ • Changed: wire length under S.L.A.M. bridge
+ • Fixed: HINT-Brushes under Main Bridge and under S.L.A.M. bridge
+ • Fixed: texture aligment in central vents
+ • Removed: Handrail from .357 Room for better bunnyhopping
+ • Removed: prop_static that was outside of the map
+
+_________________________________________________________________________________________________________________________
+Beta 1: 15.01.2006
+ • First Public Release
+
+
+P.S.: Contact me if you've found leaks, bugs etc... Peace ! (:-}=

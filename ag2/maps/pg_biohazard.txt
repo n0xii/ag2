@@ -1,0 +1,47 @@
+================================================================
+Title                   : pg_biohazard
+Date                    : 28th June 2006
+Filename                : pg_biohazard.bsp
+Gametype		: HL2DM Pro
+Playercount		: 2-8 maybe
+Author                  : Swot
+Email Address           : swot2k@arcor
+ICQ Number		: 171760752
+IRC Channel(s)		: #hl2.maps
+Home Page               : http://www.swot.here.de
+Clan Page		: http://www.sex-clan.de
+
+Description             : dm_biohazard version for Hl2promod based on scary2!
+			  
+ 
+Other Levels by myself  : dm_training2
+			  dm_frenzy / dm_frenzy_v2
+			  dm_lockdown_pro
+
+================================================================
+
+* Construction *
+
+Base                    : Steve Lyne's Scary_2 - Thx for this genial layout!
+Spawnpoints		: 8
+Editor used          	: Valve Hammer Editor 4.1
+Known Bugs              : There shouldn't be any profoundly bugs - otherwise tell me :)
+Worth knowing		: All custom content is embedded to the bsp!
+
+Build Time              : Approximately 5 weeks
+
+Compile machine         : PIV 3GHZ with 1GB of DDR RAM 
+VBSP Time		: 9  seconds
+VVIS Time		: 10 seconds
+VRAD Time		: 97 seconds  
+
+================================================================
+
+* Miscellaneous  *
+
+The author of Scary_2 wrote in his mapfile:
+
+"Please, please, please email me if you like this level. I need to know that you like what you see.
+It boosts my confidence and gives me a big kick up the ass to get the next one done."
+
+I tried to email you but your email does not work :/ - maybe it is to long ago ;)

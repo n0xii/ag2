@@ -1,0 +1,68 @@
+PG_DATACORE
+by boshed (Zaxx)
+
+----------------------------
+
+This is a remake of the classic HLDM map datacore for HL2DMPro. 32 spawns and all weapons except egon included.
+
+-----------------------------
+
+Created with:
+
+Source SDK
+Adobe Photoshop
+Crazybump
+Pakrat
+Red Bull
+
+-----------------------------
+
+All custom textures and model skins are by me except:
+
+Roof texture and computer consoles from PK01 texture set by PhillipK
+Spotlight models by Reaper47
+
+-----------------------------
+
+Thanks to:
+
+Electric Warrior & Captain Hornet - for their inspirational Sanctuary maps and gameservers
+J@nek & RATICIDE - for creating HL2DMPro
+Sc00byDooD - for his help with lighting
+Photomanic - for providing photo sources used in some textures
+Puhnkss - for late night waffling and motivation
+
+Tonester
+Memran
+Reapz
+Grandma
+dilbert_halflife
+SADIST
+RAGE
+stark
+DeepthoughtT
+Mr Jingles
+Redclaw
+keefy
+Ravage
+Jim_Bullet
+LORD DAVROS
+KoNiT
+Jelly Fox
+AngryDragon
+Pig Popper
+scruff
+Squidward'sa Testicles
+MajaDamaj
+Unknown Soldier
+b3rnwa
+Jambon Mama
+raziel
+
+and anybody else I forgot, sorry!
+
+-----------------------------
+
+web: http://boshed.hl2dm.org.uk
+email: boshed@hl2dm.org.uk
+
