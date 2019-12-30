@@ -1,6 +1,4 @@
 # Adrenaline Gamer 2  version 1.0.2
--------------------------------------------------------------------------
-
 License Agreement
 -----------------
 IN NO EVENT WHATSOEVER SHALL THE Adrenaline Gamer 2 DEVELOPMENT TEAM  BE LIABLE FOR 
