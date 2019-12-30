@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "crosshairs/default_border"
+	"$translucent" "1"
+}

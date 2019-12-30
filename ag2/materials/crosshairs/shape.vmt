@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "crosshairs/shape"
+	"$translucent" "1"
+}
