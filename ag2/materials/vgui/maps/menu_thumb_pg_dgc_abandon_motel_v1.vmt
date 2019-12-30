@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\maps\menu_thumb_pg_dgc_abandon_motel_v1"
+	"$translucent" 1
+	"$ignorez" 1
+	"$vertexcolor" 1
+}
