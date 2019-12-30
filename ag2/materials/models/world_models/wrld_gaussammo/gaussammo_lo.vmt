@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/world_models/wrld_gaussammo/gaussammo"
+	"$surfaceprop" "item"
+	"$model" "1"
+}
+

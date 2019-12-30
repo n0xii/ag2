@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/world_models/wrld_flags/soclered"
+	"$bumpmap"	"models/world_models/wrld_flags/socle_normal"
+	"$surfaceprop" "metal"
+        "$envmap" "env_cubemap"
+        "$normalmapalphaenvmapmask" "1" 
+	"$envmaptint" "[.8 .8 .8]"
+	"$selfillum" "1"
+	"$model" "1"
+}
+

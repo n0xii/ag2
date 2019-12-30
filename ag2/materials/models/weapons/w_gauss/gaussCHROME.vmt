@@ -1,0 +1,8 @@
+"VertexLitGeneric_DX6"
+{
+	"$envmap" "models/weapons/w_gauss/gaussCHROME"
+	"$envmapmode" 1
+	"$envmaptint" "[.8 .8 .8]"
+	// requred to see specular on dx6+7 at all
+	"$multipass" 1
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/w_physics/w_sphysic_shee2"
+	"$selfillum" "1"
+}

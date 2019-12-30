@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/world_models/wrld_longjump/longjump"
+	"$bumpmap" "models/world_models/wrld_longjump/longjump_normal"
+	"$surfaceprop" "item"
+        "$envmap" "env_cubemap"
+        "$envmaptint" "[ .5 .5 .5 ]"
+        "$normalmapalphaenvmapmask" "1" 
+	"$model" "1"
+}
+

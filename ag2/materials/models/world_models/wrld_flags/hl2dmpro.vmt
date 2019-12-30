@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\world_models\wrld_flags\hl2dmpro"
+	"$translucent" "1"	
+	"$nocull" "1"
+	"$additive" "1"
+}

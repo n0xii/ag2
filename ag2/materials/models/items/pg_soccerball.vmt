@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/items/pg_soccerball"
+	"$surfaceprop" "rubber"
+	"$model" 1
+}

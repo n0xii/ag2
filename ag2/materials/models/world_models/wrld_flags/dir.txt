@@ -1,0 +1,14 @@
+dir.txt
+flagneutral.vmt
+flagneutral.vtf
+football.vmt
+football.vtf
+hl2dmpro.vmt
+hl2dmpro.vtf
+socleblue.vmt
+socleblue.vtf
+socleneutral.vmt
+socleneutral.vtf
+soclered.vmt
+soclered.vtf
+socle_normal.vtf

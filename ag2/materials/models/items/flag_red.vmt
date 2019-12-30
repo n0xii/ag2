@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\items\flag_red"
+	"$model" "1"
+	"$translucent" "0"	
+	"$nocull" "1"
+}

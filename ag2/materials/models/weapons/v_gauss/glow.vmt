@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/v_gauss/glow"
+//	"$selfillum" "1"
+}

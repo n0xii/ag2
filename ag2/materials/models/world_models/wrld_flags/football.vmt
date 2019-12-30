@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\world_models\wrld_flags\football"
+	"$surfaceprop" "no_decal"
+	"$model" "1"
+
+}

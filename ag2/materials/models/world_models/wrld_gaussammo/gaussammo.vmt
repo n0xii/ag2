@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/world_models/wrld_gaussammo/gaussammo"
+	"$bumpmap" "models/world_models/wrld_gaussammo/gaussammo_normal"
+	"$surfaceprop" "item"
+        "$envmap" "env_cubemap"
+        "$envmaptint" "[ .6 .6 .6 ]"
+        "$normalmapalphaenvmapmask" "1" 
+	"$model" "1"
+}
+

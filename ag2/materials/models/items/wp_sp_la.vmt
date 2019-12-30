@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+   	"$basetexture" "models\items\wp_sp_la"
+    	"$selfillum" 1
+	"$surfaceprop" "metal"
+	"$frame" "6"
+	"Proxies" 
+	{
+		"AnimatedTexture" 
+		{ 
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "10" 
+		}
+	}
+}
+
