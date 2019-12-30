@@ -1,0 +1,9 @@
+"mapname"
+{
+	"material"	"overviews/dm_underpass"	// fichier de texture
+	"pos_x"		"-1950"	// coordonées en X,
+	"pos_y"		"300"	// coordonées en Y,
+	"scale"		"3.50" 	// l'échelle utilisée servant à prendre le screenshot
+	"rotate"	"0"	// la map a été tournée de 90 degrés dans l'éditeur d'images
+	"zoom"		"1.0"	// facteur de zoom optimal si la map est affichée en taille maximale
+}

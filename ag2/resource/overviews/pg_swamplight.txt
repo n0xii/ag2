@@ -1,0 +1,9 @@
+"mapname"
+{
+	"material"	"overviews/pg_swamplight"	// fichier de texture
+	"pos_x"		"96"	// coordonées en X,
+	"pos_y"		"2172"	// coordonées en Y,
+	"scale"		"4.30" 	// l'échelle utilisée servant à prendre le screenshot
+	"rotate"	"0"	// la map a été tournée de 90 degrés dans l'éditeur d'images
+	"zoom"		"1.0"	// facteur de zoom optimal si la map est affichée en taille maximale
+}
