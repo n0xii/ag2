@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$translucent" "1"
+	"$basetexture" "overviews/pg_the_longest_day"
+	"$vertexalpha" "1"
+	"$no_fullbright" "1"
+	"$ignorez" "1"
+}

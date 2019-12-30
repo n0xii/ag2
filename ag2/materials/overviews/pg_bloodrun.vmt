@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$translucent" "1"
+	"$basetexture" "overviews/pg_bloodrun"
+	"$vertexalpha" "1"
+	"$no_fullbright" "1"
+	"$ignorez" "1"
+}
