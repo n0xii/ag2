@@ -3,6 +3,14 @@
 ### Screenshot:
 ![alt text](https://i.imgur.com/MKMfxy9.jpg "main menu")
 
+### How to find servers:
+1. go to "find servers" menu
+2. uncheck "Show map list"
+3. done, you can now see servers hosted for ag2
+
+
+
+
 ```
 Installation
 ------------
