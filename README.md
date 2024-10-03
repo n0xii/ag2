@@ -1,3 +1,5 @@
+I DO NOT OWN THIS GAME, IT IS NOT MADE BY ME
+
 # Adrenaline Gamer 2  version 1.0.2
 
 ### Screenshot:
